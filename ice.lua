@@ -1,7 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/tiaow/gb/refs/heads/main/彩色ui"))()
-local window = library:new("冰工厂2")
 
-local Xing = window:Tab("信息",'')
 local Player.m = window:Tab("玩家",'')
 local Main = window:Tab("主要",'')
 local Cheng = window:Tab("成就",'')
