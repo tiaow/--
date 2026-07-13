@@ -36,30 +36,30 @@ local Xing2 = Xing:section("设置",true)
 
 
 local TrueOrFalse = nil
-local Player.Speed.V = game.Players.LocalPlayer.Character.Humanoid.WalkSpeed
-local Player.Jump.V = game.Players.LocalPlayer.Character.Humanoid.JumpPower
-local TheGameWorkspaceGravity.V = game.Workspace.Gravity
-local Player.CameraMaxZoomDistance.V = game:GetService("Players").LocalPlayer.CameraMaxZoomDistance
-local GameWorkspaceCurrentCameraFieldOfView.V = game.Workspace.CurrentCamera.FieldOfView
-local PL = Player.m:section("基础",true)
+local PlayerSpeedV = game.Players.LocalPlayer.Character.Humanoid.WalkSpeed
+local PlayerJumpV = game.Players.LocalPlayer.Character.Humanoid.JumpPower
+local TheGameWorkspaceGravityV = game.Workspace.Gravity
+local PlayerCameraMaxZoomDistanceV = game:GetService("Players").LocalPlayer.CameraMaxZoomDistance
+local GameWorkspaceCurrentCameraFieldOfViewV = game.Workspace.CurrentCamera.FieldOfView
+local PL = Playerm:section("基础",true)
     PL:Slider("步行速度", "", game.Players.LocalPlayer.Character.Humanoid.WalkSpeed, 0, 9999999, false, function(v)
-     Player.Speed.V = v
+     PlayerSpeedV = v
     end)       
 
     PL:Slider("跳跃高度", "JumpPower", game.Players.LocalPlayer.Character.Humanoid.JumpPower, 50, 100000000, false, function(v)
-    Player.Jump.V = v
+    PlayerJumpV = v
     end)
 
     PL:Slider('设置重力（正常196.2）', 'Sliderflag', 196.2, 0.1, 1000,false, function(v)
-    TheGameWorkspaceGravity.V = v
+    TheGameWorkspaceGravityV = v
     end)
 
     PL:Slider('缩放距离', 'ZOOOOOM OUT!',  128, 128, 100000,false, function(v)
-    Player.CameraMaxZoomDistance.V = v
+    Player.CameraMaxZoomDistanceV = v
     end)
 
     PL:Slider('视界（正常70）', 'Sliderflag', 70, 0.1, 120, false, function(v)
-    GameWorkspaceCurrentCameraFieldOfView.V = v
+    GameWorkspaceCurrentCameraFieldOfViewV = v
     end)
 PL:Toggle("启用以上功能", "",false,function(v)
 TrueOrFalse = v
@@ -67,10 +67,9 @@ end)
 
 game:GetService("RunService").Heartbeat:Connect(function()
 if TrueOrFalse then
-game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = Player.Speed.V
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = PlayerSpeedV
 
 end)
-
 
 
 :Toggle("自动互动", "Auto Interact", false, function(state)
@@ -87,4 +86,4 @@ end)
         else
             autoInteract = false
         end
-    end)
+    end) 
