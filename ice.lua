@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/tiaow/gb/blob/main/%E5%BD%A9%E8%89%B2ui"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/tiaow/gb/refs/heads/main/彩色ui"))()
 local window = library:new("冰工厂2")
 
 local Xing = window:Tab("信息",'')
