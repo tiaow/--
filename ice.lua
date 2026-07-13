@@ -2,7 +2,7 @@ local library = loadstring(game:HttpGet("https://github.com/tiaow/gb/blob/0fdfac
 local window = library:new("冰工厂2")
 
 local Xing = window:Tab("信息",'')
-local Player.m = window:Tab("玩家",'')
+local Playerm = window:Tab("玩家",'')
 local Main = window:Tab("主要",'')
 local Cheng = window:Tab("成就",'')
 
@@ -35,7 +35,7 @@ local Xing2 = Xing:section("设置",true)
     end)
 
 
-local TrueOrFalse = nil
+local TrueOrFalse = false
 local PlayerSpeedV = game.Players.LocalPlayer.Character.Humanoid.WalkSpeed
 local PlayerJumpV = game.Players.LocalPlayer.Character.Humanoid.JumpPower
 local TheGameWorkspaceGravityV = game.Workspace.Gravity
@@ -55,7 +55,7 @@ local PL = Playerm:section("基础",true)
     end)
 
     PL:Slider('缩放距离', 'ZOOOOOM OUT!',  128, 128, 100000,false, function(v)
-    Player.CameraMaxZoomDistanceV = v
+    PlayerCameraMaxZoomDistanceV = v
     end)
 
     PL:Slider('视界（正常70）', 'Sliderflag', 70, 0.1, 120, false, function(v)
