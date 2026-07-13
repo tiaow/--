@@ -5,6 +5,8 @@ local Player = window:Tab("玩家",'')
 local Main = window:Tab("主要",'')
 local Cheng = window:Tab("成就",'')
 
+local Xing = creds:section("作者信息",true)
+Xing:Lable
 
 :Toggle("自动互动", "Auto Interact", false, function(state)
         if state then
