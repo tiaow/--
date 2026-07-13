@@ -36,7 +36,10 @@ local Xing2 = Xing:section("设置",true)
 
 
 local PL = Player.m:section("基础",true)
-
+    PL:Slider("步行速度", "", game.Players.LocalPlayer.Character.Humanoid.WalkSpeed, 0, 9999999, , function(v)
+  
+    end)       
+game:GetPlayer
 
 :Toggle("自动互动", "Auto Interact", false, function(state)
         if state then
