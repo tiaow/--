@@ -1,3 +1,8 @@
+
+local CONTENT_PATH = "rbxasset://MyCustomPath/RoClothes/"
+-- 或者用你执行器支持的路径
+-- local CONTENT_PATH = getcustomasset("RoClothes/")
+
 local PS = game:GetService("Players")
 local RS = game:GetService("RunService")
 local HS = game:GetService("HttpService")
@@ -681,7 +686,7 @@ function RoClothes(Player)
 			["Torso"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Torso Mesh",
-				["MeshId"] = "rbxasset://RClothesContent/13181228593.mesh",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181228593.mesh",
 				["Size"] = Vector3.new(2.04, 2.06, 1.06),
 				["CFrame"] = CFrame.new(0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
@@ -699,7 +704,7 @@ function RoClothes(Player)
 			["Left Leg"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Leg Mesh",
-				["MeshId"] = "rbxasset://RClothesContent/7332360863.mesh",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7332360863.mesh",
 				["Size"] = Vector3.new(1.213, 2.18, 1.201),
 				["CFrame"] = CFrame.new(-0.0359992981, 0.0627000332, 0.0440006256, -4.37113883e-08, 0, -1, 0, 0.999999881, 0, 1, 0, -4.37113883e-08),
 				["CFrame1"] = CFrame.new(0,-0.001,0),
@@ -720,7 +725,7 @@ function RoClothes(Player)
 			["Right Leg"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Leg Mesh",
-				["MeshId"] = "rbxasset://RClothesContent/7332415457.mesh",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7332415457.mesh",
 				["Size"] = Vector3.new(1.213, 2.18, 1.201),
 				["CFrame"] = CFrame.new(0.0359992981, 0.0627000332, 0.0440006256, -4.37113883e-08, 0, -1, 0, 0.999999881, 0, 1, 0, -4.37113883e-08),
 				["CFrame1"] = CFrame.new(0,-0.001,0),
@@ -741,7 +746,7 @@ function RoClothes(Player)
 			["Left Arm"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Arm Mesh",
-				["MeshId"] = "rbxasset://RClothesContent/11617989163.mesh",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11617989163.mesh",
 				["Size"] = Vector3.new(1, 2, 1),
 				["CFrame"] = CFrame.new(0.0349998474, 0, 0, -1, 0, -8.74227766e-08, 0, 0.999999881, 0, 8.74227766e-08, 0, -1),
 				["Transparency"] = 0,
@@ -759,7 +764,7 @@ function RoClothes(Player)
 			["Right Arm"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Arm Mesh",
-				["MeshId"] = "rbxasset://RClothesContent/11617988681.mesh",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11617988681.mesh",
 				["Size"] = Vector3.new(1, 2, 1),
 				["CFrame"] = CFrame.new(-0.0349998474, 0, 0, -1, 0, -8.74227766e-08, 0, 0.999999881, 0, 8.74227766e-08, 0, -1),
 				["Transparency"] = 0,
@@ -777,7 +782,7 @@ function RoClothes(Player)
 			["Left Butt"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Butt",
-				["MeshId"] = "rbxasset://RClothesContent/13181475662.mesh",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475662.mesh",
 				["Size"] = Vector3.new(1.252, 1.239, 1.263),
 				["CFrame"] = CFrame.new(-0.532000542, -0.961999893, 0.328999966, -1, 3.52998995e-06, -5.08968776e-07, 3.69696932e-06, 1, -1.92065613e-06, 5.08962978e-07, -1.92066227e-06, -1),
 				["CFrame1"] = CFrame.new(-0.0004, 0, 0.001),
@@ -797,7 +802,7 @@ function RoClothes(Player)
 			["Right Butt"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Butt",
-				["MeshId"] = "rbxasset://RClothesContent/13181475663.mesh",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475663.mesh",
 				["Size"] = Vector3.new(1.252, 1.239, 1.263),
 				["CFrame"] = CFrame.new(0.532000542, -0.961999893, 0.328999966, -1, 3.52998995e-06, -6.08968776e-07, 3.69696932e-06, 1, -1.92065613e-06, 6.08962978e-07, -1.92066227e-06, -1),
 				["CFrame1"] = CFrame.new(0.0004, 0, 0.001),
