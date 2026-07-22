@@ -849,7 +849,7 @@ function RoClothes(Player)
 			["Torso"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Torso Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181228593.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181228593.mesh")),
 				["Size"] = Vector3.new(2.04, 2.06, 1.06),
 				["CFrame"] = CFrame.new(0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
@@ -867,7 +867,7 @@ function RoClothes(Player)
 			["Left Leg"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Leg Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7332360863.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7332360863.mesh")),
 				["Size"] = Vector3.new(1.213, 2.18, 1.201),
 				["CFrame"] = CFrame.new(-0.0359992981, 0.0627000332, 0.0440006256, -4.37113883e-08, 0, -1, 0, 0.999999881, 0, 1, 0, -4.37113883e-08),
 				["CFrame1"] = CFrame.new(0,-0.001,0),
@@ -888,7 +888,7 @@ function RoClothes(Player)
 			["Right Leg"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Leg Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7332415457.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7332415457.mesh")),
 				["Size"] = Vector3.new(1.213, 2.18, 1.201),
 				["CFrame"] = CFrame.new(0.0359992981, 0.0627000332, 0.0440006256, -4.37113883e-08, 0, -1, 0, 0.999999881, 0, 1, 0, -4.37113883e-08),
 				["CFrame1"] = CFrame.new(0,-0.001,0),
@@ -909,7 +909,7 @@ function RoClothes(Player)
 			["Left Arm"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Arm Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11617989163.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11617989163.mesh")),
 				["Size"] = Vector3.new(1, 2, 1),
 				["CFrame"] = CFrame.new(0.0349998474, 0, 0, -1, 0, -8.74227766e-08, 0, 0.999999881, 0, 8.74227766e-08, 0, -1),
 				["Transparency"] = 0,
@@ -927,7 +927,7 @@ function RoClothes(Player)
 			["Right Arm"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Arm Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11617988681.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11617988681.mesh")),
 				["Size"] = Vector3.new(1, 2, 1),
 				["CFrame"] = CFrame.new(-0.0349998474, 0, 0, -1, 0, -8.74227766e-08, 0, 0.999999881, 0, 8.74227766e-08, 0, -1),
 				["Transparency"] = 0,
@@ -945,7 +945,7 @@ function RoClothes(Player)
 			["Left Butt"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Butt",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475662.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475662.mesh")),
 				["Size"] = Vector3.new(1.252, 1.239, 1.263),
 				["CFrame"] = CFrame.new(-0.532000542, -0.961999893, 0.328999966, -1, 3.52998995e-06, -5.08968776e-07, 3.69696932e-06, 1, -1.92065613e-06, 5.08962978e-07, -1.92066227e-06, -1),
 				["CFrame1"] = CFrame.new(-0.0004, 0, 0.001),
@@ -965,7 +965,7 @@ function RoClothes(Player)
 			["Right Butt"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Butt",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475663.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475663.mesh")),
 				["Size"] = Vector3.new(1.252, 1.239, 1.263),
 				["CFrame"] = CFrame.new(0.532000542, -0.961999893, 0.328999966, -1, 3.52998995e-06, -6.08968776e-07, 3.69696932e-06, 1, -1.92065613e-06, 6.08962978e-07, -1.92066227e-06, -1),
 				["CFrame1"] = CFrame.new(0.0004, 0, 0.001),
@@ -985,7 +985,7 @@ function RoClothes(Player)
 			["Left Breast"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Breast",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17645666081.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17645666081.mesh")),
 				["Size"] = Vector3.new(1.15, 1.403, 0.98),
 				["CFrame"] = CFrame.new(-0.24647522, 0.635471106, -0.450698853, 0.320868134, 0.223423854, -0.920394123, -0.184720367, 0.967879057, 0.170553446, 0.928935945, 0.115290381, 0.351832479),
 				["CFrame1"] = CFrame.new(0.200012207, 0.400005341, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1),
@@ -1005,7 +1005,7 @@ function RoClothes(Player)
 			["Right Breast"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Breast",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17645666081.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17645666081.mesh")),
 				["Size"] = Vector3.new(1.15, 1.403, 0.98),
 				["CFrame"] = CFrame.new(0.24647522, 0.635471106, -0.450698853, -0.320868134, -0.223423854, -0.920394123, -0.184720367, 0.967879057, -0.170553446, 0.928935945, 0.115290381, -0.351832479),
 				["CFrame1"] = CFrame.new(0.200012207, 0.400005341, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1),
@@ -1025,7 +1025,7 @@ function RoClothes(Player)
 			["Left Nipple"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Nipple",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17645756055.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17645756055.mesh")),
 				["Size"] = Vector3.new(0.129, 0.067, 0.129),
 				["CFrame"] = CFrame.new(-0.572320938, -0.203234434, 0.00150489807, 0.000296547514, 0.999854326, -0.0170696471, -0.982211947, 0.0029140336, -0.18775323, -0.187775597, 0.0168216899, 0.982067883),
 				["Transparency"] = 0,
@@ -1044,7 +1044,7 @@ function RoClothes(Player)
 			["Right Nipple"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Nipple",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17645756055.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17645756055.mesh")),
 				["Size"] = Vector3.new(0.129, 0.067, 0.129),
 				["CFrame"] = CFrame.new(-0.572320938, -0.203234434, 0.00150489807, -0.000296547514, 0.999854326, -0.0170696471, -0.982211947, 0.0029140336, 0.18775323, 0.187775597, 0.0168216899, 0.982067883),
 				["Transparency"] = 0,
@@ -1126,11 +1126,11 @@ function RoClothes(Player)
 			["EasterSack"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "BBC Balls",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/74969809748782.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/74969809748782.mesh")),
 				["Size"] = Vector3.new(1.036, 0.976, 0.592),
 				["CFrame"] = CFrame.new(0.002, -0.441, 0.652, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/easter_balls_better.png",
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/easter_balls_better.png"),
 				["Material"] = Enum.Material.SmoothPlastic,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1154,7 +1154,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/RoCat Cock.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/RoCat Cock.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1176,7 +1176,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/RoCat Balls.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/RoCat Balls.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1197,7 +1197,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/RoCat Cocktip.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/RoCat Cocktip.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1303,7 +1303,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5270413936.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5270413936.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1324,7 +1324,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5270413632.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5270413632.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1346,7 +1346,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7220038121.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7220038121.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1368,7 +1368,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7220038121.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7220038121.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1429,7 +1429,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7223274409.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7223274409.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1451,7 +1451,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7223274409.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7223274409.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1468,7 +1468,7 @@ function RoClothes(Player)
 			["Pussy Closed"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Pussy",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17633723189.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17633723189.mesh")),
 				["Size"] = Vector3.new(0.82, 0.876, 0.825),
 				["CFrame"] = CFrame.new(0, -0.925573111, -0.0344238281, -1, 0, 0, 1.1765762e-13, 1, 0, 0, 0, -1),
 				["Transparency"] = 0,
@@ -1484,7 +1484,7 @@ function RoClothes(Player)
 			["Clitoris Closed"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Clitoris",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17633756976.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17633756976.mesh")),
 				["Size"] = Vector3.new(0.016, 0.032, 0.013),
 				["CFrame"] = CFrame.new(0, -0.0782728195, 0.396118164, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
@@ -1502,7 +1502,7 @@ function RoClothes(Player)
 			["Vulva Closed"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Vulva",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17633771118.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17633771118.mesh")),
 				["Size"] = Vector3.new(0.049, 0.339, 0.569),
 				["CFrame"] = CFrame.new(0, -0.231252432, 0.116136551, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
@@ -1520,7 +1520,7 @@ function RoClothes(Player)
 			["Vagina Closed"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Vagina",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17633784085.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17633784085.mesh")),
 				["Size"] = Vector3.new(0.048, 0.357, 0.555),
 				["CFrame"] = CFrame.new(0, -0.218520164, 0.12276268, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
@@ -1542,7 +1542,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.00100517273, -0.964430332, -0.0420532227, -0.999993682, 7.40205633e-06, -4.17192183e-07, 9.17161924e-06, 0.999999881, -1.33617547e-07, -4.1726986e-07, 1.33675684e-07, -1.00000024),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17108921573.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17108921573.mesh")),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = "Parent"
@@ -1558,7 +1558,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(3.05175781e-05, -0.0711487532, 0.40284729, 0.999993682, 8.84806468e-07, 4.17230467e-07, 8.84806468e-07, 0.999999881, -1.33648342e-07, 4.17230467e-07, -1.33648342e-07, 1.00000024),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17108921543.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17108921543.mesh")),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = Color3.fromRGB(255, 167, 169)
@@ -1576,7 +1576,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.000427246094, -0.242344975, 0.102287292, 0.999993682, 8.84806468e-07, 4.17230467e-07, 8.84806468e-07, 0.999999881, -1.33648342e-07, 4.17230467e-07, -1.33648342e-07, 1.00000024),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17108921578.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17108921578.mesh")),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = Color3.fromRGB(255, 167, 169)
@@ -1594,7 +1594,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.000490188599, -0.203095198, 0.101016998, 0.999993682, 8.84806468e-07, 4.17230467e-07, 8.84806468e-07, 0.999999881, -1.33648342e-07, 4.17230467e-07, -1.33648342e-07, 1.00000024),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17108921539.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17108921539.mesh")),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = Color3.fromRGB(255, 89, 89)
@@ -1608,7 +1608,7 @@ function RoClothes(Player)
 			["Torso2"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Torso Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/137558328898044.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/137558328898044.mesh")),
 				["Size"] = Vector3.new(2.009, 2, 1.127),
 				["CFrame"] = CFrame.new(0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
@@ -1631,7 +1631,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17873855289.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17873855289.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1650,7 +1650,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0504875183, -0.000301837921, 0.000484466553, 1, -8.84762244e-07, 4.17234219e-07, 8.84762244e-07, 1, 1.33645642e-07, -4.17234361e-07, -1.33645287e-07, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17873855280.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17873855280.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1669,7 +1669,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.00048828125, -0.0753002167, 0.000483989716, 1, -8.84762244e-07, 4.17234219e-07, 8.84762244e-07, 1, 1.33645642e-07, -4.17234361e-07, -1.33645287e-07, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17873855318.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17873855318.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1689,7 +1689,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0, -0.001, 0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/117979897155395.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/117979897155395.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1712,7 +1712,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/71484235609105.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/71484235609105.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1729,7 +1729,7 @@ function RoClothes(Player)
 			["Torso4"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Torso Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/133621335195542.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/133621335195542.mesh")),
 				["Size"] = Vector3.new(2.009, 2, 1.127),
 				["CFrame"] = CFrame.new(0, 0, 0, -1, 0, -8.74227766e-08, 0, 1, -0, 8.74227766e-08, -0, -1),
 				["Transparency"] = 0,
@@ -1747,7 +1747,7 @@ function RoClothes(Player)
 			["Left Leg2"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Leg Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9067190251.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9067190251.mesh")),
 				["Size"] = Vector3.new(1.402345895767212, 2.247053861618042, 1.5714069604873657),
 				["CFrame"] = CFrame.new(-0.0995101929, 0.0462403297, 0.000484466553, -1, -8.84762244e-07, -4.17234219e-07, -8.84762244e-07, 1, -1.33645642e-07, 4.17234361e-07, -1.33645287e-07, -1),
 				["CFrame1"] = CFrame.new(0, -0.001, 0),
@@ -1768,7 +1768,7 @@ function RoClothes(Player)
 			["Right Leg2"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Leg Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9067191575.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9067191575.mesh")),
 				["Size"] = Vector3.new(1.399999976158142, 2.2464888095855713, 1.5719980001449585),
 				["CFrame"] = CFrame.new(0.10049057, 0.0462414026, 0.000483989716, -1, -8.84762244e-07, -4.17234219e-07, -8.84762244e-07, 1, -1.33645642e-07, 4.17234361e-07, -1.33645287e-07, -1),
 				["CFrame1"] = CFrame.new(0, -0.001, 0),
@@ -1895,7 +1895,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0, 0, -0.0405553579, -1, 0, 0, 0, 1, 0, 0, 0, -1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9329354422.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9329354422.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1915,7 +1915,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6143439194.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6143439194.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1934,7 +1934,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0,0,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6143427747.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6143427747.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1954,7 +1954,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0, 0.0520000458, 0, -1, -1.63851337e-06, 1.50995803e-07, -1.63851337e-06, 1, -1.11045296e-11, -1.50995803e-07, -1.13519385e-11, -1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13755434958.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13755434958.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -1970,7 +1970,7 @@ function RoClothes(Player)
 			["Left Butt2"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Butt",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9067214532.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9067214532.mesh")),
 				["Size"] = Vector3.new(1.2358614206314087, 1.3677444458007812, 1.3591549396514893),
 				["CFrame"] = CFrame.new(-0.48058036, -0.935174763, 0.246622816, -0.939691007, 0.342023283, -0.000989110908, 0.340629935, 0.936115921, 0.087511301, 0.0308568217, 0.0818966553, -0.996163011),
 				["CFrame1"] = CFrame.new(-0.0004, 0, 0.001),
@@ -1990,7 +1990,7 @@ function RoClothes(Player)
 			["Right Butt2"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Butt",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9067214532.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9067214532.mesh")),
 				["Size"] = Vector3.new(1.2358601093292236, 1.3675915002822876, 1.359156847000122),
 				["CFrame"] = CFrame.new(0.484511584, -0.935167909, 0.228578746, -0.939691842, -0.342021823, -0.000567939656, -0.340772927, 0.936116099, 0.0869510695, -0.0292075071, 0.0819007531, -0.996212423),
 				["CFrame1"] = CFrame.new(0.0004, 0, 0.001),
@@ -2010,7 +2010,7 @@ function RoClothes(Player)
 			["Left Butt3"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Butt",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15333488402.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15333488402.mesh")),
 				["Size"] = Vector3.new(1.292526125907898, 1.421129584312439, 1.2406930923461914),
 				["CFrame"] = CFrame.new(-0.5449543, -1.01682138, 0.493936539, -0.999996841, -4.42379047e-07, -2.08616072e-07, 4.42379076e-07, 0.99999994, -6.68224871e-08, -2.08616157e-07, 6.68224942e-08, -1.00000012),
 				["CFrame1"] = CFrame.new(-0.0004, 0, 0.001),
@@ -2030,7 +2030,7 @@ function RoClothes(Player)
 			["Right Butt3"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Butt",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15333488459.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15333488459.mesh")),
 				["Size"] = Vector3.new(1.292526125907898, 1.4211293458938599, 1.2406928539276123),
 				["CFrame"] = CFrame.new(0.544282913, -1.01682186, 0.493938446, -0.999996841, -4.42379047e-07, -2.08616072e-07, 4.42379076e-07, 0.99999994, -6.68224871e-08, -2.08616157e-07, 6.68224942e-08, -1.00000012),
 				["CFrame1"] = CFrame.new(0.0004, 0, 0.001),
@@ -2051,7 +2051,7 @@ function RoClothes(Player)
 			["Right Leg5"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Leg Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15689547573.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15689547573.mesh")),
 				["Size"] = Vector3.new(1.8530000448226929, 2.299999952316284, 1.8250000476837158),
 				["CFrame"] = CFrame.new(0.101165771, 0.120700002, -0.0378417969, 0.0227066502, -8.84762244e-07, -0.999742389, 1.53700825e-07, 1, -8.81499716e-07, 0.999742389, -1.33645287e-07, 0.0227066502),
 				["CFrame1"] = CFrame.new(0, -0.001, 0),
@@ -2072,7 +2072,7 @@ function RoClothes(Player)
 			["Left Leg5"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Leg Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15689547567.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15689547567.mesh")),
 				["Size"] = Vector3.new(1.8530000448226929, 2.299999952316284, 1.8250000476837158),
 				["CFrame"] = CFrame.new(-0.020614624, 0.120699167, -0.0112304688, 0.0227067191, -8.84762244e-07, -0.99974215, 1.53700853e-07, 1, -8.81499545e-07, 0.99974215, -1.33645287e-07, 0.0227067191),
 				["CFrame1"] = CFrame.new(0, -0.001, 0),
@@ -2093,7 +2093,7 @@ function RoClothes(Player)
 			["Torso8"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Torso Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13085030579.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13085030579.mesh")),
 				["Size"] = Vector3.new(1.0990766286849976, 2.240330934524536, 2.252163887023926),
 				["CFrame"] = CFrame.new(0.0160980225, -0.10021019, -0.0673675537, 0.00548222661, -7.65554717e-07, -0.999985158, 1.38493746e-07, 1, -7.64807226e-07, 0.999985158, -1.34298816e-07, 0.00548222661),
 				["Transparency"] = 0,
@@ -2111,7 +2111,7 @@ function RoClothes(Player)
 			["Right Leg6"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Leg Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11725817042.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11725817042.mesh")),
 				["Size"] = Vector3.new(1.0757273435592651, 2.028697967529297, 1.120668649673462),
 				["CFrame"] = CFrame.new(-9.87611711e-05, 0.000455433503, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["CFrame1"] = CFrame.new(0, -0.001, 0),
@@ -2132,7 +2132,7 @@ function RoClothes(Player)
 			["Left Leg6"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Leg Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11725817051.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11725817051.mesh")),
 				["Size"] = Vector3.new(1.0757273435592651, 2.0286977291107178, 1.120668649673462),
 				["CFrame"] = CFrame.new(0.000105079263, 0.000455433503, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["CFrame1"] = CFrame.new(0, -0.001, 0),
@@ -2159,7 +2159,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0, 0.0739526749, -0.0534248352, 1, 0, 0, 0, 0.999995112, 0, 0, 0, 0.999995112),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12921743140.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12921743140.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2179,7 +2179,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0.00201797485, 0.00545811653, 0.0592346191, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12921742575.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12921742575.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2200,7 +2200,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(-0.0200748444, 0.388033152, 0.00170898438, 0, -0.173647761, -0.984805346, 0, 0.984805346, -0.173647761, 1, 0, 0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/RoCat Balls.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/RoCat Balls.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2221,7 +2221,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0242080688, 0.0334939957, -1.71375084, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/104258503222570.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/104258503222570.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2241,7 +2241,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.109142303, -0.0321941376, -1.34951591, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/93314074748372.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/93314074748372.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2261,7 +2261,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.155548096, -0.0327558517, -1.34943771, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/139687389487082.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/139687389487082.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2281,7 +2281,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.10603714, 0.0299324989, -0.834030151, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/140686130941738.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/140686130941738.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2301,7 +2301,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.151844025, 0.0292406082, -0.833906174, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/137906463544311.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/137906463544311.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2321,7 +2321,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0216178894, -0.000931739807, -0.36333847, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/132249088742638.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/132249088742638.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2341,7 +2341,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0220375061, 0.0070643425, -0.374809265, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/114358631982055.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/114358631982055.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2362,7 +2362,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0, 0.0739526749, -0.0534248352, 1, 0, 0, 0, 0.999995112, 0, 0, 0, 0.999995112),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12921743140.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12921743140.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2382,7 +2382,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0.00201797485, 0.00545811653, 0.0592346191, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12921742575.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12921742575.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2403,7 +2403,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(-0.0200748444, 0.388033152, 0.00170898438, 0, -0.173647761, -0.984805346, 0, 0.984805346, -0.173647761, 1, 0, 0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/RoCat Balls.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/RoCat Balls.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2466,7 +2466,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0242080688, 0.0334939957, -1.71375084, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/104258503222570.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/104258503222570.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2486,7 +2486,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.109142303, -0.0321941376, -1.34951591, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/93314074748372.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/93314074748372.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2506,7 +2506,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.155548096, -0.0327558517, -1.34943771, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/139687389487082.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/139687389487082.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2526,7 +2526,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.10603714, 0.0299324989, -0.834030151, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/140686130941738.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/140686130941738.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2546,7 +2546,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.151844025, 0.0292406082, -0.833906174, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/137906463544311.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/137906463544311.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2566,7 +2566,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0216178894, -0.000931739807, -0.36333847, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/132249088742638.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/132249088742638.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2586,7 +2586,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0220375061, 0.0070643425, -0.374809265, -1, 0, 0, 0, 0.984805346, -0.173647761, 0, -0.173647761, -0.984805346),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/114358631982055.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/114358631982055.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -2603,7 +2603,7 @@ function RoClothes(Player)
 			["Left Breast Type 5"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Breast",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13779805157.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13779805157.mesh")),
 				["Size"] = Vector3.new(1.0733778476715088, 1.3004062175750732, 1.0728654861450195),
 				["CFrame"] = CFrame.new(-0.30033493, 0.72069788, -0.438274384, 0.999996841, -4.42379047e-07, 2.08616072e-07, -4.42379076e-07, 0.99999994, 6.68224871e-08, 2.08616157e-07, 6.68224942e-08, 1.00000012),
 				["CFrame1"] = CFrame.new(0.178162053, -0.44884184, -0.306866258, 0.999048233, 0.0436193869, 2.84217094e-14, 0.0436193869, -0.999048233, 6.39498383e-13, 5.62891883e-14, -6.37649981e-13, -1),
@@ -2622,7 +2622,7 @@ function RoClothes(Player)
 			["Right Breast Type 5"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Breast",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13779805168.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13779805168.mesh")),
 				["Size"] = Vector3.new(1.0733778476715088, 1.3004069328308105, 1.0728652477264404),
 				["CFrame"] = CFrame.new(0.299663544, 0.720697641, -0.438274384, 0.999996841, -4.42379047e-07, 2.08616072e-07, -4.42379076e-07, 0.99999994, 6.68224871e-08, 2.08616157e-07, 6.68224942e-08, 1.00000012),
 				["CFrame1"] = CFrame.new(-0.158737123, -0.448922306, -0.306866258, 0.999048233, -0.0436193869, 2.84217094e-14, -0.0436193869, -0.999048233, 6.39498383e-13, 5.00130604e-16, -6.40129443e-13, -1),
@@ -2641,7 +2641,7 @@ function RoClothes(Player)
 			["Left Nipple Type 5"] = {
 				["Instance"] = "Part",
 				["Name"] = "Nipple",
-				--["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13779756984.mesh"),
+				--["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13779756984.mesh")),
 				--["DoubleSided"] = true,
 				["Size"] = Vector3.new(0.6644159555435181, 0.6212737560272217, 0.7335218191146851),
 				["CFrame"] = CFrame.new(-0.180159852, 0.113487557, 0.296119392, -1, -2.84217094e-14, 4.63045084e-21, 0, 1.62918866e-07, 1, -2.84217162e-14, 1, -1.62918866e-07),
@@ -2662,7 +2662,7 @@ function RoClothes(Player)
 			["Right Nipple Type 5"] = {
 				["Instance"] = "Part",
 				["Name"] = "Nipple",
-				--["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13779756939.mesh"),
+				--["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13779756939.mesh")),
 				--["DoubleSided"] = true,
 				["Size"] = Vector3.new(0.6639117002487183, 0.620802104473114, 0.7329651117324829),
 				["CFrame"] = CFrame.new(0.181330398, 0.113331951, 0.298346341, -1, -8.7422805e-08, 1.24234289e-21, 5.59067207e-20, 4.37104184e-08, 1, -8.74227979e-08, 1, -4.37104148e-08),
@@ -2684,7 +2684,7 @@ function RoClothes(Player)
 			["School Shirt"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "School Shirt",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8708773284.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8708773284.mesh")),
 				["Size"] = Vector3.new(1.95, 1.237, 2.063),
 				["CFrame"] = CFrame.new(0., 0.395723343, -0.401777267, -4.4567679e-07, 4.7127628e-06, -1, 1.06013331e-05, 1, 4.71275825e-06, 1, -1.06013313e-05, -4.4572667e-07),
 				["Transparency"] = 0,
@@ -2701,7 +2701,7 @@ function RoClothes(Player)
 			["School Collor"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Collor",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8708773488.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8708773488.mesh")),
 				["Size"] = Vector3.new(1.833, 0.681, 2.05),
 				["CFrame"] = CFrame.new(0.0488710403, 0.292836428, -0.00204086304, 1, -7.24058646e-06, -2.78201196e-06, 8.68098778e-06, 0.999997139, -1.66889549e-06, 2.3908276e-06, -1.04128333e-06, 1.00000143),
 				["Transparency"] = 0,
@@ -2719,7 +2719,7 @@ function RoClothes(Player)
 			["School Bow"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Bow",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8708773674.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8708773674.mesh")),
 				["Size"] = Vector3.new(0.87, 1.255, 1.917),
 				["CFrame"] = CFrame.new(-0.598809242, -0.0214169025, -0.00198173523, 1, -7.24058646e-06, -2.78201196e-06, 8.68098778e-06, 0.999997139, -1.66889549e-06, 2.3908276e-06, -1.04128333e-06, 1.00000143),
 				["Transparency"] = 0,
@@ -2737,7 +2737,7 @@ function RoClothes(Player)
 			["Skirt 1"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Skirt",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8609086938.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8609086938.mesh")),
 				["Size"] = Vector3.new(1.85, 1.405, 2.619),
 				["CFrame"] = CFrame.new(-0.0003657341, -0.680291414, 0.209050179, -2.56359476e-06, -2.94868323e-06, -1.00000048, -2.50712965e-05, 0.999999046, -3.85198973e-06, 1, 2.55514824e-05, 1.07363007e-07),
 				["Transparency"] = 0,
@@ -2754,7 +2754,7 @@ function RoClothes(Player)
 			["Skirt 2"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Skirt",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11389496406.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11389496406.mesh")),
 				["Size"] = Vector3.new(2.666, 1.507, 2.062),
 				["CFrame"] = CFrame.new(0.0089969635, -0.731234312, 0.254065514, -1.00000048, 2.71013369e-06, 3.48198853e-07, 1.80675625e-06, 0.999999046, 9.60324201e-07, -4.78581001e-07, 1.44048965e-06, -1),
 				["Transparency"] = 0,
@@ -2771,7 +2771,7 @@ function RoClothes(Player)
 			["School Left Arm"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Arm Clothes",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh")),
 				["Size"] = Vector3.new(1.089, 0.983, 1.051),
 				["CFrame"] = CFrame.new(0.038, 0.517, 0),
 				["Transparency"] = 0,
@@ -2788,7 +2788,7 @@ function RoClothes(Player)
 			["School Right Arm"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Arm Clothes",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh")),
 				["Size"] = Vector3.new(1.089, 0.983, 1.051),
 				["CFrame"] = CFrame.new(-0.038, 0.517, 0),
 				["Transparency"] = 0,
@@ -2805,7 +2805,7 @@ function RoClothes(Player)
 			["Bra"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Bra",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11381019021.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11381019021.mesh")),
 				["Size"] = Vector3.new(1.86, 1.101, 1.868),
 				["CFrame"] = CFrame.new(0.00900268555, 0.499922037, -0.390037537, -1, 5.42022599e-06, -8.69745577e-07, 5.42022826e-06, 1, -2.88098545e-06, 8.69729888e-07, -2.88098977e-06, -1),
 				["Transparency"] = 0,
@@ -2822,7 +2822,7 @@ function RoClothes(Player)
 			["Panty"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Panty",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11377850676.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11377850676.mesh")),
 				["Size"] = Vector3.new(1.783, 1.12, 1.484),
 				["CFrame"] = CFrame.new(-1.90734863e-06, -0.912999868, 0.160000801, -1, 5.42022508e-06, -1.01899627e-06, 5.42022826e-06, 1, -2.88098499e-06, 1.01898058e-06, -2.88099e-06, -1),
 				["Transparency"] = 0,
@@ -2839,7 +2839,7 @@ function RoClothes(Player)
 			["Apron 1"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Apron",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6491183076.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6491183076.mesh")),
 				["Size"] = Vector3.new(1.893, 2.61, 1.989),
 				["CFrame"] = CFrame.new(7.62939453e-06, -0.251567364, -0.391598701, -1.83562111e-06, 1.28747515e-05, 1, -6.72226906e-06, 1, -1.28747643e-05, -1, -6.72229271e-06, -1.83553448e-06),
 				["Transparency"] = 0,
@@ -2856,7 +2856,7 @@ function RoClothes(Player)
 			["Apron 2"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Apron",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11405661031.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11405661031.mesh")),
 				["Size"] = Vector3.new(2.001, 3.588, 1.835),
 				["CFrame"] = CFrame.new(0, -0.756999969, -0.472000122, -1, -3.24366835e-12, 1.50995803e-07, 3.24366835e-12, 1, -4.8978031e-19, -1.50995803e-07, 0, -1),
 				["Transparency"] = 0,
@@ -2873,7 +2873,7 @@ function RoClothes(Player)
 			["Bodyless Shirt"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Shirt",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9867233353.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9867233353.mesh")),
 				["Size"] = Vector3.new(2.121, 0.538, 1.158),
 				["CFrame"] = CFrame.new(1.71661377e-05, 0.797148228, 0.00380325317, 1, 6.32340789e-06, -1.3013792e-07, -6.32385991e-06, 1, -4.80156132e-07, 1.3065187e-07, 4.80156814e-07, 1),
 				["Transparency"] = 0,
@@ -2891,7 +2891,7 @@ function RoClothes(Player)
 			["Bodyless Neck"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Neck",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4342469442.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4342469442.mesh")),
 				["Size"] = Vector3.new(1.312, 0.301, 1.354),
 				["CFrame"] = CFrame.new(0.00418663025, 1.09489012, 0.00360298157, 1, -5.37213937e-12, 6.13908924e-12, -5.37213937e-12, 1, -1.63373362e-23, 6.13908924e-12, -1.63373346e-23, 1),
 				["Transparency"] = 0,
@@ -2909,7 +2909,7 @@ function RoClothes(Player)
 			["Bodyless Right Arm"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Sleeve",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9867233367.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9867233367.mesh")),
 				["Size"] = Vector3.new(1.175, 1.87, 1.133),
 				["CFrame"] = CFrame.new(-0.0374875069, 0.0970358849, 0, 1, 6.3234088e-06, -1.30139284e-07, -6.32385809e-06, 0.999999881, -4.80156075e-07, 1.30650506e-07, 4.80156814e-07, 1),
 				["Transparency"] = 0,
@@ -2927,7 +2927,7 @@ function RoClothes(Player)
 			["Bodyless Left Arm"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Sleeve",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9867233360.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9867233360.mesh")),
 				["Size"] = Vector3.new(1.175, 1.87, 1.133),
 				["CFrame"] = CFrame.new(0.0415430069, 0.0967195034, 0.0065574646, 1, 6.3234138e-06, -1.30144741e-07, -6.32385309e-06, 0.999999881, -4.80156075e-07, 1.30645049e-07, 4.80156814e-07, 1),
 				["Transparency"] = 0,
@@ -2945,8 +2945,8 @@ function RoClothes(Player)
 			["Dress Bra"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Bra",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8811986211.mesh"),
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/395191839.png",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8811986211.mesh")),
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/395191839.png"),
 				["Size"] = Vector3.new(2.054, 1.488, 2),
 				["CFrame"] = CFrame.new(1.90734863e-05, 0.295036316, -0.409999847, 6.08214521e-07, 1.17440368e-05, -1, 2.40081545e-06, 1, 1.17440377e-05, 1, -2.4008225e-06, 6.08186326e-07),
 				["Transparency"] = 0,
@@ -2962,7 +2962,7 @@ function RoClothes(Player)
 			["Dress Rope"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Rope",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8811988447.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8811988447.mesh")),
 				["Size"] = Vector3.new(1.463, 0.492, 1.826),
 				["CFrame"] = CFrame.new(7.62939453e-06, -0.292956591, -0.172002792, 6.08214521e-07, 1.17440368e-05, -1, 2.40081545e-06, 1, 1.17440377e-05, 1, -2.4008225e-06, 6.08186326e-07),
 				["Transparency"] = 0,
@@ -2979,7 +2979,7 @@ function RoClothes(Player)
 			["Dress Skirt In"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Skirt In",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8811988165.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8811988165.mesh")),
 				["Size"] = Vector3.new(2.052, 1.423, 2.684),
 				["CFrame"] = CFrame.new(3.81469727e-06, -0.948948383, 0.077996254, 6.08214521e-07, 1.17440368e-05, -1, 2.40081545e-06, 1, 1.17440377e-05, 1, -2.4008225e-06, 6.08186326e-07),
 				["Transparency"] = 0,
@@ -2996,8 +2996,8 @@ function RoClothes(Player)
 			["Dress Skirt Out"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Skirt Out",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8811987828.mesh"),
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/395191839.png",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8811987828.mesh")),
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/395191839.png"),
 				["Size"] = Vector3.new(2.139, 1.438, 2.702),
 				["CFrame"] = CFrame.new(7.62939453e-06, -0.83894968, 0.0949964523, 6.08214521e-07, 1.17440368e-05, -1, 2.40081545e-06, 1, 1.17440377e-05, 1, -2.4008225e-06, 6.08186326e-07),
 				["Transparency"] = 0,
@@ -3013,7 +3013,7 @@ function RoClothes(Player)
 			["Birdly Dress"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Dress",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8533956808.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8533956808.mesh")),
 				["Size"] = Vector3.new(2.55, 2.649, 2.777),
 				["CFrame"] = CFrame.new(7.62939453e-06, -0.255959034, -0.136188507, -5.48989405e-08, -1.88403271e-09, -1, -4.65476489e-07, 1, -1.88494753e-09, 1, 4.65473931e-07, -5.48980879e-08),
 				["Transparency"] = 0,
@@ -3030,7 +3030,7 @@ function RoClothes(Player)
 			["Birdly Dress Bottom"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Dress Bottom",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8533957053.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8533957053.mesh")),
 				["Size"] = Vector3.new(2.253, 1.889, 3.177),
 				["CFrame"] = CFrame.new(0.0135879517, -0.964025736, 0.237159729, -5.42543361e-08, 1.51019786e-09, -1, -4.65476489e-07, 1, -1.88494731e-09, 1, 4.92539243e-07, -5.55426922e-08),
 				["Transparency"] = 0,
@@ -3048,7 +3048,7 @@ function RoClothes(Player)
 			["Birdly Dress Sling"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Sling",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8533957545.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8533957545.mesh")),
 				["Size"] = Vector3.new(2.003, 1.454, 1.783),
 				["CFrame"] = CFrame.new(-0.0349998474, 0.305000067, -0.469562531, -4.3711843e-08, -1.44881884e-09, -1, -4.69112194e-07, 1, -1.44980017e-09, 1, 4.69109466e-07, -4.37109335e-08),
 				["Transparency"] = 0,
@@ -3116,7 +3116,7 @@ function RoClothes(Player)
 			["Birdly Dress Right Sleeve"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Sleeve",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8477756263.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8477756263.mesh")),
 				["Size"] = Vector3.new(1.068, 1.202, 1.052),
 				["CFrame"] = CFrame.new(-0.0390014648, -0.245999813, 0.00850009918, 1.13686838e-13, 3.7566391e-13, 1, 3.41060459e-13, 0.999999881, 1.25221285e-13, -1, -1.02318154e-12, -3.41060513e-13),
 				["Transparency"] = 0,
@@ -3134,7 +3134,7 @@ function RoClothes(Player)
 			["Birdly Dress Right Sleeve 2"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Sleeve 2",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8533957322.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8533957322.mesh")),
 				["Size"] = Vector3.new(1.059, 0.947, 1.152),
 				["CFrame"] = CFrame.new(-0.0125274658, -0.134218693, 0.00903892517, -4.9860995e-07, -1.62974948e-06, -0.999995708, -9.83640348e-06, 0.99999845, -2.19345497e-06, 1.00000191, 1.45387166e-05, -7.21604636e-07),
 				["Transparency"] = 0,
@@ -3151,7 +3151,7 @@ function RoClothes(Player)
 			["Birdly Dress Left Sleeve"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Sleeve",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8477756263.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8477756263.mesh")),
 				["Size"] = Vector3.new(1.068, 1.202, 1.052),
 				["CFrame"] = CFrame.new(0.0390014648, -0.250999689, 0.00899982452, -4.37112746e-08, -3.23716395e-13, 1, -1.59999963e-05, 0.999999881, 1.25221299e-13, -1, -1.6e-05, -4.37117293e-08),
 				["Transparency"] = 0,
@@ -3169,7 +3169,7 @@ function RoClothes(Player)
 			["Birdly Dress Left Sleeve 2"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Sleeve 2",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8533957322.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8533957322.mesh")),
 				["Size"] = Vector3.new(1.059, 0.947, 1.152),
 				["CFrame"] = CFrame.new(0.0060005188, -0.133999825, 0.00899982452, -4.37106387e-08, 2.26175061e-07, 1, 2.81108601e-06, 0.999999881, -2.26174407e-07, -1, 2.81108487e-06, -4.37117293e-08),
 				["Transparency"] = 0,
@@ -3186,7 +3186,7 @@ function RoClothes(Player)
 			["Right Shoe"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Shoe",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6860788547.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6860788547.mesh")),
 				["Size"] = Vector3.new(1.108, 0.771, 1.15),
 				["CFrame"] = CFrame.new(-7.62939453e-06, -0.689962208, 0.0800008774, -4.37113883e-08, 0, -1, 0, 1, 0, 1, 0, -4.37113883e-08),
 				["Transparency"] = 0,
@@ -3203,7 +3203,7 @@ function RoClothes(Player)
 			["Left Shoe"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Shoe",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6860787685.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6860787685.mesh")),
 				["Size"] = Vector3.new(1.108, 0.771, 1.15),
 				["CFrame"] = CFrame.new(-7.62939453e-06, -0.689962208, 0.0800008774, -4.37113883e-08, 0, -1, 0, 1, 0, 1, 0, -4.37113883e-08),
 				["Transparency"] = 0,
@@ -3220,7 +3220,7 @@ function RoClothes(Player)
 			["Right Sock"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Sock",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6721517477.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6721517477.mesh")),
 				["Size"] = Vector3.new(1.296, 1.524, 1.189),
 				["CFrame"] = CFrame.new(0.0279846191, -0.307503283, 0.0619983673, -4.37113883e-08, 0, 1, 0, 1, 0, -1, 0, -4.37113883e-08),
 				["Transparency"] = 0,
@@ -3238,7 +3238,7 @@ function RoClothes(Player)
 			["Left Sock"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Sock",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6721513769.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6721513769.mesh")),
 				["Size"] = Vector3.new(1.296, 1.524, 1.189),
 				["CFrame"] = CFrame.new(-0.0279998779, -0.307499111, 0.0620002747, -4.37113883e-08, 0, 1, 0, 1, 0, -1, 0, -4.37113883e-08),
 				["Transparency"] = 0,
@@ -3262,7 +3262,7 @@ function RoClothes(Player)
 				},
 				["Recolor"] = "Primary",
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10080455422.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10080455422.mesh")),
 				["Name"] = "Sweater",
 				["Parent"] = {
 					[1] = "Torso"
@@ -3280,7 +3280,7 @@ function RoClothes(Player)
 				},
 				["Recolor"] = "Primary",
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4729777667.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4729777667.mesh")),
 				["Name"] = "Tie",
 				["Parent"] = {
 					[1] = "Torso",
@@ -3298,7 +3298,7 @@ function RoClothes(Player)
 				},
 				["Recolor"] = "Secondary",
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4342469442.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4342469442.mesh")),
 				["Name"] = "Neck",
 				["Parent"] = {
 					[1] = "Torso",
@@ -3315,13 +3315,13 @@ function RoClothes(Player)
 				},
 				["Instance"] = "Mesh",
 				["Material"] = Enum.Material.Fabric,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6297176322.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6297176322.mesh")),
 				["Name"] = "Bra",
 				["Parent"] = {
 					[1] = "Torso"
 				},
 				["Size"] = Vector3.new(1.8829039335250854, 1.1392192840576172, 1.8722314834594727),
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/12038926049.png",
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/12038926049.png"),
 				["Transparency"] = 0
 			},
 			["Cow Panty"] = {
@@ -3332,13 +3332,13 @@ function RoClothes(Player)
 				},
 				["Instance"] = "Mesh",
 				["Material"] = Enum.Material.Fabric,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6297229742.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6297229742.mesh")),
 				["Name"] = "Panty",
 				["Parent"] = {
 					[1] = "Torso"
 				},
 				["Size"] = Vector3.new(1.1498957872390747, 0.9570162296295166, 1.8741321563720703),
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/12038931250.png",
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/12038931250.png"),
 				["Transparency"] = 0
 			},
 			["Right Bunny Band"] = {
@@ -3348,7 +3348,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.249682188, -0.632135391, -0.000693321228, -1.30402327e-07, 9.93718913e-06, -1.00000191, -4.80150504e-07, 0.999996066, 6.32364572e-06, 1, 2.40081181e-06, -6.51925802e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6861074681.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6861074681.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3368,7 +3368,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.00239944458, 0.94911027, -0.584125519, 1.00000191, 7.52851292e-06, -6.48738978e-06, -6.32364663e-06, 0.766041756, -0.642784894, 6.51925802e-07, 0.642788827, 0.766043425),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4596067364.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4596067364.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3387,7 +3387,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.250300884, -0.632102489, -0.000693321228, 1.30402327e-07, 9.93718913e-06, 1.00000191, 4.80150504e-07, 0.999996066, -6.32364572e-06, -1, 2.40081181e-06, 6.51925802e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6861074681.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6861074681.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3407,7 +3407,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.000400066376, -0.507106781, 0.837873459, -1.30402327e-07, 9.93718913e-06, -1.00000191, -4.80150561e-07, 0.999996185, 6.32364663e-06, 1, 2.40081181e-06, -6.51925802e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5620377615.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5620377615.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3426,7 +3426,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.00040102005, -0.65, -0.00508785248, -1.30402327e-07, 9.93718913e-06, -1.00000191, -4.80150561e-07, 0.999996185, 6.32364663e-06, 1, 2.40081181e-06, -6.51925802e-07),
 				["Transparency"] = 1,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6859161870.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6859161870.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3446,7 +3446,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.000400781631, -0.583568573, -0.142845154, -1.30402327e-07, 9.93718913e-06, -1.00000191, -4.80150561e-07, 0.999996185, 6.32364663e-06, 1, 2.40081181e-06, -6.51925802e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6858823726.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6858823726.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3466,9 +3466,9 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0499756336, 1.00000286, -0.400989532, 1.00000191, 9.93718913e-06, -1.30402327e-07, -6.32364663e-06, 0.999996185, -4.80150561e-07, 6.51925802e-07, 2.40081181e-06, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/227430350.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/227430350.mesh")),
 				["DoubleSided"] = false,
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/709231552.png",
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/709231552.png"),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = Color3.fromRGB(255, 255, 255),
@@ -3487,7 +3487,7 @@ function RoClothes(Player)
 				--["CFrame"] = CFrame.new(0.036002636, 0.0627008677, 0.0440006256, 5.10434063e-07, 3.83933411e-06, -1.00000405, 2.04068738e-06, 0.999991536, -3.83933548e-06, 1, 2.0406876e-06, -5.97857024e-07),
 				["Transparency"] = 1,
 				["Material"] = Enum.Material.Plastic,
-				--["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7332415457.mesh"),
+				--["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7332415457.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3511,7 +3511,7 @@ function RoClothes(Player)
 				--["CFrame"] = CFrame.new(-0.0349985957, 0.0630007982, 0.0440015793, 5.10434063e-07, 3.83933411e-06, -1.00000405, 2.04068738e-06, 0.999991536, -3.83933548e-06, 1, 2.0406876e-06, -5.97857024e-07),
 				["Transparency"] = 1,
 				["Material"] = Enum.Material.Plastic,
-				--["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7332360863.mesh"),
+				--["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7332360863.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3535,7 +3535,7 @@ function RoClothes(Player)
 				--["CFrame"] = CFrame.new(-0.531559527, -0.961991549, 0.329221725, -1.00000381, 3.73439707e-06, -5.2154769e-07, -3.73439661e-06, 0.999992371, -1.9206509e-06, -5.21547918e-07, 1.9206509e-06, -1),
 				["Transparency"] = 1,
 				["Material"] = Enum.Material.Plastic,
-				--["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11617724988.mesh"),
+				--["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11617724988.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3559,7 +3559,7 @@ function RoClothes(Player)
 				--["CFrame"] = CFrame.new(0.531559527, -0.961991549, 0.329221725, 1.00000381, 3.73836701e-06, 5.21722257e-07, 3.73908415e-06, 0.999992371, 1.92064363e-06, 5.21373238e-07, 1.92065818e-06, 1),
 				["Transparency"] = 1,
 				["Material"] = Enum.Material.Plastic,
-				--["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11617724536.mesh"),
+				--["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11617724536.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3576,7 +3576,7 @@ function RoClothes(Player)
 			["Pussy String"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Pussy String",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17633723189.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17633723189.mesh")),
 				["Size"] = Vector3.new(0.825, 0.881, 0.83),
 				["CFrame"] = CFrame.new(-0.00103759766, -0.925573111, -0.0344238281, -1, 0, 0, 1.1765762e-13, 1, 0, 0, 0, -1),
 				["Transparency"] = 1,
@@ -3598,7 +3598,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0158348083, 0.137589216, -0.375313759, 3.91171568e-07, 6.32366346e-06, 1.00000191, 1.44047965e-06, 0.999996185, -2.71014164e-06, -1, 3.36114272e-06, 9.12697146e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755484302.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755484302.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3617,9 +3617,9 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(9.53674316e-06, 0.838002682, -0.133995056, 1.00000191, 6.32366346e-06, -3.91171568e-07, -2.71014164e-06, 0.999996185, -1.44047965e-06, 9.12697146e-07, 3.36114272e-06, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6552973009.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6552973009.mesh")),
 				["DoubleSided"] = false,
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6552973038.png",
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6552973038.png"),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = Color3.fromRGB(17.00000088661909, 17.00000088661909, 17.00000088661909),
@@ -3635,7 +3635,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0173130035, 0.400683284, 0.0307683945, 3.91171568e-07, 0.140735254, 0.990049183, 1.44047942e-06, 0.990043938, -0.140730858, -1, 3.4561358e-06, 4.30604814e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755489604.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755489604.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3654,7 +3654,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0169596672, 0.398624897, 0.0307683945, 3.91171568e-07, 0.140735254, 0.990049183, 1.44047942e-06, 0.990043938, -0.140730858, -1, 3.4561358e-06, 4.30604814e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755488785.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755488785.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3673,7 +3673,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-6.19888306e-06, -0.942862988, 0.134953499, 3.47460087e-07, 6.32366346e-06, 1.00000191, 1.44047976e-06, 0.999996185, -2.71014164e-06, -1, 3.36114272e-06, 8.68985751e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755486346.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755486346.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3692,9 +3692,9 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-1.10927677, -0.976359367, -0.527161598, 3.91171568e-07, 6.32366346e-06, 1.00000191, 1.44047965e-06, 0.999996185, -2.71014164e-06, -1, 3.36114272e-06, 9.12697146e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755510910.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755510910.mesh")),
 				["DoubleSided"] = false,
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6755510955.png",
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6755510955.png"),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = Color3.fromRGB(163.00000548362732, 162.00000554323196, 165.00000536441803),
@@ -3710,7 +3710,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.939169407, -0.702218771, -0.459594727, 3.91171568e-07, 6.32366346e-06, 1.00000191, 1.44047965e-06, 0.999996185, -2.71014164e-06, -1, 3.36114272e-06, 9.12697146e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755513230.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755513230.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3729,9 +3729,9 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(1.09738016, -0.995746374, -0.421038628, 3.91171568e-07, 6.32366346e-06, 1.00000191, 1.44047965e-06, 0.999996185, -2.71014164e-06, -1, 3.36114272e-06, 9.12697146e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755512558.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755512558.mesh")),
 				["DoubleSided"] = false,
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6755512610.png",
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6755512610.png"),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = Color3.fromRGB(163.00000548362732, 162.00000554323196, 165.00000536441803),
@@ -3747,7 +3747,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.958770752, -0.695994139, -0.425095558, 3.91171568e-07, 6.32366346e-06, 1.00000191, 1.44047965e-06, 0.999996185, -2.71014164e-06, -1, 3.36114272e-06, 9.12697146e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755511825.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755511825.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3766,7 +3766,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0492196083, 0.450606108, 1.06449509, 3.91171568e-07, 6.32366346e-06, 1.00000191, 1.44047965e-06, 0.999996185, -2.71014164e-06, -1, 3.36114272e-06, 9.12697146e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6747382163.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6747382163.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3785,9 +3785,9 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(5.7220459e-06, 0.895759344, -0.0647373199, 1.00000191, 6.32366346e-06, -3.91171568e-07, -2.71014164e-06, 0.999996185, -1.44047965e-06, 9.12697146e-07, 3.36114272e-06, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4487737814.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4487737814.mesh")),
 				["DoubleSided"] = false,
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/4503276365.png",
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/4503276365.png"),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = Color3.fromRGB(17.00000088661909, 17.00000088661909, 17.00000088661909),
@@ -3804,7 +3804,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.600448608, 0.825362921, -0.182882309, 3.91171568e-07, 6.32366346e-06, 1.00000191, 1.44047965e-06, 0.999996185, -2.71014164e-06, -1, 3.36114272e-06, 9.12697146e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755487966.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755487966.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3823,7 +3823,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.568787098, 0.825255632, -0.179076195, 3.91171568e-07, 6.32366346e-06, 1.00000191, 1.44047965e-06, 0.999996185, -2.71014164e-06, -1, 3.36114272e-06, 9.12697146e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755487288.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755487288.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3842,7 +3842,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0150403976, 0.318082809, -1.26292038, 3.91171568e-07, 6.32366346e-06, 1.00000191, 1.44047965e-06, 0.999996185, -2.71014164e-06, -1, 3.36114272e-06, 9.12697146e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6764807950.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6764807950.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3861,7 +3861,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0169978142, 0.197001457, -1.33299923, 3.47460087e-07, 6.32366346e-06, 1.00000191, 1.44047976e-06, 0.999996185, -2.71014164e-06, -1, 3.36114272e-06, 8.68985751e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6764749054.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6764749054.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3880,7 +3880,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0162010193, 0.0697808266, -1.3160944, 3.91171568e-07, 6.32366346e-06, 1.00000191, 1.44047965e-06, 0.999996185, -2.71014164e-06, -1, 3.36114272e-06, 9.12697146e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755508155.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755508155.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3899,7 +3899,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0158338547, 0.233896255, -1.20333481, 3.91171568e-07, 6.32366346e-06, 1.00000191, 1.44047965e-06, 0.999996185, -2.71014164e-06, -1, 3.36114272e-06, 9.12697146e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755507454.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6755507454.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3918,7 +3918,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.00039768219, -1.25011444, 0.194470406, -1.00000381, 5.42021326e-06, -1.30387627e-06, -1.80679251e-06, 0.999992371, -4.80162407e-06, 2.60781945e-07, -9.60322382e-07, -1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5971239783.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5971239783.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3937,7 +3937,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(1.90734863e-06, 0.343997478, -0.375999451, 1.00000191, 5.42023372e-06, 7.82324321e-07, -1.80671861e-06, 0.999996185, 2.88097726e-06, -2.60770037e-07, -9.60333523e-07, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6671745090.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6671745090.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3957,7 +3957,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0396080017, 0.0808815956, -0.000538825989, -1.00000191, 5.42023372e-06, -7.82324321e-07, 1.80671839e-06, 0.999996066, -2.88097681e-06, 2.60770037e-07, -9.60333523e-07, -1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3977,7 +3977,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.040397644, 0.081091404, -0.000540733337, 1.00000191, 5.42023372e-06, 7.82324321e-07, -1.80671839e-06, 0.999996066, 2.88097681e-06, -2.60770037e-07, -9.60333523e-07, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -3997,7 +3997,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.00216674805, -0.184390783, -0.217723846, 1.00000191, 5.42023372e-06, 7.82324321e-07, -1.80671861e-06, 0.999996185, 2.88097726e-06, -2.60770037e-07, -9.60333523e-07, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6671818838.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6671818838.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -4016,7 +4016,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-1.90734863e-06, -0.212999821, -0.229743958, 1, 1.35507053e-05, -1.30411507e-07, -1.35507053e-05, 1, -4.80143228e-07, 1.30405496e-07, 4.80145786e-07, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6745689310.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6745689310.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -4036,7 +4036,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.492490768, -0.214658141, 0.00777053833, -0.147934914, -0.964880586, 0.217073083, -0.953003764, 0.197749659, 0.229518548, -0.264384061, -0.172917604, -0.94878912),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6567309030.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6567309030.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -4056,7 +4056,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.491999626, -0.215000153, -0.00799942017, 0.151539236, -0.967152357, 0.204088852, 0.95300144, 0.197756082, 0.229523182, -0.262343675, 0.159715176, 0.951665103),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6567308335.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6567308335.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -4076,7 +4076,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0, 0.343346596, -0.393656731, 1.26016982e-06, 9.03369892e-06, -1.00000191, 4.80163362e-06, 0.999996185, 5.42016687e-06, 1, -2.88100068e-06, 7.38593769e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6697964510.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6697964510.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -4095,7 +4095,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-9.53674316e-06, -0.942420244, 0.204673767, 1.00000191, 9.12287305e-06, -2.84610906e-07, -5.42016687e-06, 0.984804869, -0.173642576, -7.82305165e-07, 0.173645124, 0.984808266),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6668707772.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6668707772.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -4114,7 +4114,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(9.89437103e-06, 0.999995947, 1.90734863e-06, 1.00000191, 9.93718913e-06, -1.30402327e-07, -6.32364663e-06, 0.999996185, -4.80150561e-07, 6.51925802e-07, 2.40081181e-06, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4857299880.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4857299880.mesh")),
 				["DoubleSided"] = false,
 				["TextureId"] = "",
 				["Color"] = {
@@ -4134,7 +4134,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0, 0.3, 0),
 				["Transparency"] = 1,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7606070501.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7606070501.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4155,7 +4155,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0, 0.3, 0),
 				["Transparency"] = 1,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7606070501.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7606070501.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4190,7 +4190,7 @@ function RoClothes(Player)
 			["Right Butt Shirt Type1"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Butt Shirt",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475636.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475636.mesh")),
 				["Size"] = Vector3.new(1.248, 0.563, 1.259),
 				["CFrame"] = CFrame.new(0, 0.339, 0),
 				["Transparency"] = 1,
@@ -4209,7 +4209,7 @@ function RoClothes(Player)
 			["Left Butt Shirt Type1"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Butt Shirt",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475635.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475635.mesh")),
 				["Size"] = Vector3.new(1.248, 0.563, 1.259),
 				["CFrame"] = CFrame.new(0, 0.339, 0),
 				["Transparency"] = 1,
@@ -4229,7 +4229,7 @@ function RoClothes(Player)
 				["Instance"] = "Mesh",
 				["Name"] = "Right Butt Shirt",
 				--[[
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475636.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475636.mesh")),
 				["Size"] = Vector3.new(1.248, 0.563, 1.259),
 				["CFrame"] = CFrame.new(0, 0.339, 0),
 				["Scale"] = "ButtsScale",
@@ -4253,7 +4253,7 @@ function RoClothes(Player)
 				["Instance"] = "Mesh",
 				["Name"] = "Left Butt Shirt",
 				--[[
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475635.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475635.mesh")),
 				["Size"] = Vector3.new(1.248, 0.563, 1.259),
 				["CFrame"] = CFrame.new(0, 0.339, 0),
 				["Scale"] = "ButtsScale",
@@ -4277,7 +4277,7 @@ function RoClothes(Player)
 				["Instance"] = "Mesh",
 				["Name"] = "Right Butt Shirt",
 				--[[
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475636.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475636.mesh")),
 				["Size"] = Vector3.new(1.248, 0.563, 1.259),
 				["CFrame"] = CFrame.new(0, 0.339, 0),
 				["Scale"] = "ButtsScale",
@@ -4301,7 +4301,7 @@ function RoClothes(Player)
 				["Instance"] = "Mesh",
 				["Name"] = "Left Butt Shirt",
 				--[[
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475635.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181475635.mesh")),
 				["Size"] = Vector3.new(1.248, 0.563, 1.259),
 				["CFrame"] = CFrame.new(0, 0.339, 0),
 				["Scale"] = "ButtsScale",
@@ -4329,7 +4329,7 @@ function RoClothes(Player)
 				--["CFrame"] = CFrame.new(-0.360874176, 0.38800168, -0.483547688, 0.36783731, 0.290563017, -0.883328319, -0.0900876448, 0.956592739, 0.27714473, 0.925514758, -0.0223651696, 0.378048182),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7220038121.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7220038121.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4350,7 +4350,7 @@ function RoClothes(Player)
 				--["CFrame"] = CFrame.new(0.360874176, 0.38800168, -0.483547688, -0.36783731, -0.290563017, -0.883328319, -0.0900876448, 0.956592739, -0.27714473, 0.925514758, -0.0223651696, -0.378048182),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7220038121.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7220038121.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4370,7 +4370,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0349998474, 0.0500049591, 6.68022949e-07, 1, 3.61347907e-06, 5.2154661e-07, -3.61347952e-06, 0.999999881, 1.92065818e-06, -5.21539732e-07, -1.92066045e-06, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4389,8 +4389,8 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-5.7220459e-06, -0.150007486, -0.0499997325, 4.77835215e-07, 3.61347907e-06, -1, 1.92065863e-06, 1, 3.61347998e-06, 1, -1.92066045e-06, 4.77828337e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8279606564.mesh"),
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/187645444.png",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8279606564.mesh")),
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/187645444.png"),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4428,7 +4428,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.000124454498, 6.77108765e-05, 5.24520874e-05, -0.843650639, 0.0103908479, 0.536791861, -0.46789664, 0.476090997, -0.744587123, -0.26329869, -0.879334688, -0.39679274),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8745487512.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8745487512.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4447,7 +4447,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-9.15527344e-05, -6.10351562e-05, 0.000244140625, 0.897830784, -0.402056038, -0.179584816, 0.0126717985, -0.384072006, 0.923216105, -0.440158159, -0.831167638, -0.339736879),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8745487512.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8745487512.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4466,7 +4466,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0437135696, -0.0103340149, -0.00108528137, -0.0263926424, -0.725746155, -0.687458217, -0.00533926487, -0.687584579, 0.726083398, -0.99964118, 0.0228355527, 0.0142710507),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4932869451.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4932869451.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4485,7 +4485,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0437135696, -0.0103340149, -0.00108528137, -0.0263926424, -0.725746155, -0.687458217, -0.00533926487, -0.687584579, 0.726083398, -0.99964118, 0.0228355527, 0.0142710507),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4932869451.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4932869451.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4504,7 +4504,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0435810089, -0.0102119446, -0.000776290894, -0.0263970345, -0.725711107, -0.687493086, -0.00526610017, -0.687622249, 0.726049662, -0.999637723, 0.0227859654, 0.014329521),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6773710025.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6773710025.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4523,7 +4523,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0435810089, -0.0102119446, -0.000776290894, -0.0263970345, -0.725711107, -0.687493086, -0.00526610017, -0.687622249, 0.726049662, -0.999637723, 0.0227859654, 0.014329521),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6773710025.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6773710025.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4542,7 +4542,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0250000004, -0.00749999983, 0, -4.37113883e-08, -1, 4.37113883e-08, 0, -4.37113883e-08, -1, 1, -4.37113883e-08, 1.91068547e-15),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12625658678.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12625658678.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4561,7 +4561,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0250000004, -0.00749999983, 0, -4.37113883e-08, -1, 4.37113883e-08, 0, -4.37113883e-08, -1, 1, -4.37113883e-08, 1.91068547e-15),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12625658678.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12625658678.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4580,7 +4580,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -1, 4.37113883e-08, 0, -4.37113883e-08, -1, 1, -4.37113883e-08, 1.91068547e-15),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7791686946.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7791686946.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4599,7 +4599,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -1, 4.37113883e-08, 0, -4.37113883e-08, -1, 1, -4.37113883e-08, 1.91068547e-15),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7791686946.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7791686946.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4618,7 +4618,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -1, 4.37113883e-08, 0, -4.37113883e-08, -1, 1, -4.37113883e-08, 1.91068547e-15),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11394330816.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11394330816.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4637,7 +4637,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -1, 4.37113883e-08, 0, -4.37113883e-08, -1, 1, -4.37113883e-08, 1.91068547e-15),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11394330816.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11394330816.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4656,7 +4656,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0250000004, -0.00700000022, 0, 1.5048154e-07, -0.707106769, -0.707106829, 1.06770166e-07, -0.707106829, 0.707106769, -1, -1.81904426e-07, -3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13050350514.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13050350514.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4675,7 +4675,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0250000004, -0.00700000022, 0, 1.5048154e-07, -0.707106769, -0.707106829, 1.06770166e-07, -0.707106829, 0.707106769, -1, -1.81904426e-07, -3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13050350514.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13050350514.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4694,7 +4694,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0253143311, -0.00280761719, -0.0009765625, -0.517758846, 0.0350331329, -0.854810536, 0.845839381, -0.128981292, -0.517609715, -0.128386974, -0.991031468, 0.037148416),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7063311226.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7063311226.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4713,7 +4713,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0253143311, -0.00280761719, -0.0009765625, -0.517758846, 0.0350331329, -0.854810536, 0.845839381, -0.128981292, -0.517609715, -0.128386974, -0.991031468, 0.037148416),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7063311226.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7063311226.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4732,7 +4732,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, 0.00249999994, 0, -6.30587635e-08, -0.707106769, -0.707106829, -1.06770166e-07, -0.707106829, 0.707106769, -1, 1.20087179e-07, -3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12488261246.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12488261246.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4751,7 +4751,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, 0.00249999994, 0, -6.30587635e-08, -0.707106769, -0.707106829, -1.06770166e-07, -0.707106829, 0.707106769, -1, 1.20087179e-07, -3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12488261246.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12488261246.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4770,7 +4770,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -0.707106769, -0.707106769, 0, -0.707106769, 0.707106769, -1, 3.09086197e-08, 3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13076200715.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13076200715.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4789,7 +4789,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -0.707106769, -0.707106769, 0, -0.707106769, 0.707106769, -1, 3.09086197e-08, 3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13076200715.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13076200715.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4808,8 +4808,8 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0850000009, -0.0149999997, 0, -2.24199738e-07, -0.98480773, -0.173648342, -2.62201709e-08, -0.173648342, 0.98480773, -1, 2.25346724e-07, 1.31100855e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8184647568.mesh"),
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/8184767343.png",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8184647568.mesh")),
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/8184767343.png"),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4828,8 +4828,8 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0850000009, -0.0149999997, 0, -2.24199738e-07, -0.98480773, -0.173648342, -2.62201709e-08, -0.173648342, 0.98480773, -1, 2.25346724e-07, 1.31100855e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8184647568.mesh"),
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/8184767343.png",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8184647568.mesh")),
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/8184767343.png"),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4848,7 +4848,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -0.707106769, 0.707106769, 0, -0.707106769, -0.707106769, 1, -3.09086197e-08, 3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12755883933.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12755883933.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4867,7 +4867,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -0.707106769, 0.707106769, 0, -0.707106769, -0.707106769, 1, -3.09086197e-08, 3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12755883933.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12755883933.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4886,7 +4886,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -0.707106769, -0.707106769, 0, 0.707106769, -0.707106769, 1, -3.09086197e-08, -3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12005265476.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12005265476.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4905,7 +4905,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -0.707106769, -0.707106769, 0, 0.707106769, -0.707106769, 1, -3.09086197e-08, -3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12005265476.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12005265476.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4924,7 +4924,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, 0, 0, -1.82268053e-07, -0.707106769, 0.707106829, -1.06770166e-07, -0.707106829, -0.707106769, 1, -2.04380882e-07, 5.3385083e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12576150000.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12576150000.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4943,7 +4943,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, 0, 0, -1.82268053e-07, -0.707106769, 0.707106829, -1.06770166e-07, -0.707106829, -0.707106769, 1, -2.04380882e-07, 5.3385083e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12576150000.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12576150000.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4962,7 +4962,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -0.707106769, 0.707106769, 0, -0.707106769, -0.707106769, 1, -3.09086197e-08, 3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12157209535.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12157209535.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -4981,7 +4981,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -0.707106769, 0.707106769, 0, -0.707106769, -0.707106769, 1, -3.09086197e-08, 3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12157209535.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12157209535.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5000,7 +5000,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0250000004, -0.00700000022, 0, 1.36806619e-08, -0.707106769, -0.707106829, 6.18172393e-08, 0.707106829, -0.707106769, 1, -3.40377007e-08, 5.3385083e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12720313083.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12720313083.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5019,7 +5019,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0250000004, -0.00700000022, 0, 1.36806619e-08, -0.707106769, -0.707106829, 6.18172393e-08, 0.707106829, -0.707106769, 1, -3.40377007e-08, 5.3385083e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12720313083.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12720313083.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5038,7 +5038,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -0.707106769, 0.707106769, 0, -0.707106769, -0.707106769, 1, -3.09086197e-08, 3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5385291202.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5385291202.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5057,7 +5057,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -4.37113883e-08, -0.707106769, 0.707106769, 0, -0.707106769, -0.707106769, 1, -3.09086197e-08, 3.09086197e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5385291202.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5385291202.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5076,7 +5076,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -1.82268053e-07, -0.707106769, 0.707106829, -1.06770166e-07, -0.707106829, -0.707106769, 1, -2.04380882e-07, 5.3385083e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7601850077.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7601850077.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5095,7 +5095,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0500000007, -0.00700000022, 0, -1.82268053e-07, -0.707106769, 0.707106829, -1.06770166e-07, -0.707106829, -0.707106769, 1, -2.04380882e-07, 5.3385083e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7601850077.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7601850077.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5114,7 +5114,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.075000003, -0.00700000022, 0, -4.37113883e-08, -0.866025448, -0.49999997, 0, 0.49999997, -0.866025448, 1, -3.78551732e-08, -2.18556924e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11486064816.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11486064816.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5133,7 +5133,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.075000003, -0.00700000022, 0, -4.37113883e-08, -0.866025448, -0.49999997, 0, 0.49999997, -0.866025448, 1, -3.78551732e-08, -2.18556924e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11486064816.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/11486064816.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5152,8 +5152,8 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0700000003, -0.00700000022, 0, -4.37113883e-08, -1, 4.37113883e-08, 0, -4.37113883e-08, -1, 1, -4.37113883e-08, 1.91068547e-15),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12662159629.mesh"),
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/12662175794.png",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12662159629.mesh")),
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/12662175794.png"),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5172,8 +5172,8 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0700000003, -0.00700000022, 0, -4.37113883e-08, -1, 4.37113883e-08, 0, -4.37113883e-08, -1, 1, -4.37113883e-08, 1.91068547e-15),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12662159629.mesh"),
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/12662175794.png",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12662159629.mesh")),
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/12662175794.png"),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5192,9 +5192,9 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0, 0.200000048, -0.412475586, -4.37121699e-08, 1.87848313e-13, -1, -1.25055521e-12, 1, 6.26161585e-14, 1, 3.75166564e-12, -4.37137331e-08),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866883591.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866883591.mesh")),
 				["DoubleSided"] = false,
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6866883603.png",
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6866883603.png"),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = Color3.fromRGB(163.00000548362732, 162.00000554323196, 165.00000536441803),
@@ -5211,7 +5211,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0307617188, 0.412641048, 0.00299072266, 1.09897246e-06, 1.28800411e-05, 0.999997139, -1.31012484e-06, 0.999996185, -1.06076859e-05, -0.999998212, 3.49747182e-07, -1.35971584e-06),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6771341341.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6771341341.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5229,7 +5229,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0307617188, 0.415190697, 0.00299072266, 1.09897246e-06, 1.28800411e-05, 0.999997139, -1.31012484e-06, 0.999996185, -1.06076859e-05, -0.999998212, 3.49747182e-07, -1.35971584e-06),
 				["Transparency"] = 0.3499999940395355,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6771345897.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6771345897.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5247,7 +5247,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.020690918, 0.338274598, 0.0269775391, 1.09897246e-06, 1.28800411e-05, 0.999997139, -1.31012484e-06, 0.999996185, -1.06076859e-05, -0.999998212, 3.49747182e-07, -1.35971584e-06),
 				["Transparency"] = 0.3499999940395355,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6771356972.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6771356972.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5265,9 +5265,9 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0297241211, 0.189261675, -0.575317383, 0.999997139, 1.2926811e-05, 2.77690333e-08, -1.06076859e-05, 0.996190906, 0.0871559456, -1.35971584e-06, -0.0871544704, 0.996193111),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6237876025.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6237876025.mesh")),
 				["DoubleSided"] = false,
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6237701996.png",
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6237701996.png"),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = Color3.fromRGB(163.00000548362732, 162.00000554323196, 165.00000536441803),
@@ -5283,7 +5283,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0392456055, 0.415163279, 0.00299072266, 1.09897246e-06, 1.28800411e-05, 0.999997139, -1.31012484e-06, 0.999996185, -1.06076859e-05, -0.999998212, 3.49747182e-07, -1.35971584e-06),
 				["Transparency"] = 0.3499999940395355,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6771345897.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6771345897.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5301,7 +5301,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0392456055, 0.41261363, 0.00299072266, 1.09897246e-06, 1.28800411e-05, 0.999997139, -1.31012484e-06, 0.999996185, -1.06076859e-05, -0.999998212, 3.49747182e-07, -1.35971584e-06),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6771341341.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6771341341.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5319,7 +5319,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.00100517273, -0.964430332, -0.0420532227, -0.999993682, 7.40205633e-06, -4.17192183e-07, 9.17161924e-06, 0.999999881, -1.33617547e-07, -4.1726986e-07, 1.33675684e-07, -1.00000024),
 				["Transparency"] = 1,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17108921573.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/17108921573.mesh")),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = "Parent"
@@ -5335,7 +5335,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.00202941895, -0.538755774, 0.0320339203, -1, 8.29489272e-06, -3.93924893e-11, 8.27883741e-06, 1, 2.73453864e-11, 3.93924893e-11, 2.73450602e-11, -1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/93789077116999.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/93789077116999.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5355,7 +5355,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.00202941895, -0.538755774, 0.0320339203, -1, 8.29489272e-06, -3.93924893e-11, 8.27883741e-06, 1, 2.73453864e-11, 3.93924893e-11, 2.73450602e-11, -1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/93789077116999.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/93789077116999.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5374,7 +5374,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.106853485, 0.0230622292, -0.000331878662, 1, 5.76812259e-26, 0, 5.76812259e-26, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/116742308897287.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/116742308897287.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5392,7 +5392,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.00250244141, 0.019197464, -0.00451469421, 1, 2.88406129e-26, 0, 2.88406129e-26, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/134989273944289.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/134989273944289.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5410,7 +5410,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.00823974609, 0.0469186306, -0.0775756836, -1, -1.37563238e-05, 6.08962978e-07, -1.39233034e-05, 1, -1.92066227e-06, -6.08935238e-07, -1.92066705e-06, -1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/124409748030346.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/124409748030346.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "ButtsScale",
 				["Color"] = {
@@ -5430,7 +5430,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.10760498, 0.101624727, -0.373779297, -1, 4.05314222e-06, 6.08964342e-07, 3.1738175e-06, 1, -1.92067114e-06, -6.08966729e-07, -1.92064749e-06, -1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/97919823001964.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/97919823001964.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "ButtsScale",
 				["Color"] = {
@@ -5450,7 +5450,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.00823974609, 0.0469186306, -0.0775756836, -1, -1.37563238e-05, 6.08962978e-07, -1.39233034e-05, 1, -1.92066227e-06, -6.08935238e-07, -1.92066705e-06, -1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/124409748030346.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/124409748030346.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "ButtsScale",
 				["Color"] = {
@@ -5470,7 +5470,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.10760498, 0.101624727, -0.373779297, -1, 4.05314222e-06, 6.08964342e-07, 3.1738175e-06, 1, -1.92067114e-06, -6.08966729e-07, -1.92064749e-06, -1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/97919823001964.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/97919823001964.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "ButtsScale",
 				["Color"] = {
@@ -5491,7 +5491,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/92395350432537.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/92395350432537.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5512,7 +5512,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/79202531181173.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/79202531181173.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5533,7 +5533,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/83679944172074.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/83679944172074.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5554,7 +5554,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/90596906849364.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/90596906849364.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5575,7 +5575,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/105937959636862.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/105937959636862.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5596,7 +5596,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/75884203722318.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/75884203722318.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5617,7 +5617,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/118417825061565.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/118417825061565.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5637,7 +5637,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0297241211, -0.00793719292, -0.0162353516, 1, -5.48508253e-11, -3.41060513e-13, 5.24692442e-11, 1, 7.14060565e-14, 3.41060513e-13, 1.55967619e-13, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/125202318335961.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/125202318335961.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5655,7 +5655,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0294799805, 0.0965681076, -0.00408935547, 1, -5.48508253e-11, -3.41060513e-13, 5.24692442e-11, 1, 7.14060565e-14, 3.41060513e-13, 1.55967619e-13, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/83504910801572.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/83504910801572.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5673,7 +5673,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0450439453, 0.082224369, 0.0104980469, 1, -5.48508253e-11, -3.41060513e-13, 5.24692442e-11, 1, 7.14060565e-14, 3.41060513e-13, 1.55967619e-13, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/95320080609346.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/95320080609346.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5691,7 +5691,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0413818359, -0.00853848457, -0.00238037109, 1, -5.48508253e-11, -3.41060513e-13, 5.24692442e-11, 1, 7.14060565e-14, 3.41060513e-13, 1.55967619e-13, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/119168308079386.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/119168308079386.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5709,7 +5709,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.422241211, 0.163582802, -0.427978516, -0.496243387, 0.165055707, 0.852343678, -0.0562241822, 0.973587394, -0.221271366, -0.866356492, -0.157726616, -0.473860145),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5727,7 +5727,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.177307129, 0.401250362, -0.555358887, -0.355953306, 0.934499025, -1.0984179e-06, 9.28247482e-06, 5.56737234e-09, -0.999998927, -0.934500456, -0.355956137, -9.1735601e-06),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5745,7 +5745,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0985107422, -0.38054657, -0.576965332, 0.965921223, -5.12373163e-07, -0.258819193, 0.0268451702, 0.994606495, 0.100190066, 0.257421494, -0.103724286, 0.960714638),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5763,7 +5763,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.43737793, -0.163431168, -0.373474121, 2.88029014e-07, 1.26513214e-06, 0.99999547, -0.0705631599, 0.997506678, -3.15570605e-06, -0.997505426, -0.0705628172, -2.0076036e-06),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5781,7 +5781,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.352539062, -0.0939350128, -0.450317383, 0.666839063, 0.48791337, -0.563255787, -0.372748435, 0.872888863, 0.314836085, 0.645273268, 7.02903571e-06, 0.763949275),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5799,7 +5799,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.44128418, 0.244832039, -0.364379883, -2.02121782e-07, 0.288140208, -0.957583427, -8.72514192e-06, 0.957586229, 0.288143337, 0.999998033, 8.19637535e-06, 4.37895324e-06),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5817,7 +5817,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.251525879, -0.239318848, -0.54888916, 0.717032015, 0.345024675, -0.605651677, -0.137268469, 0.92177707, 0.362604737, 0.683384418, -0.176863149, 0.708308637),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5835,7 +5835,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.168945312, -0.0475158691, -0.0146484375, -0.903787792, -0.421040893, 0.0767331123, -0.40288651, 0.897506237, 0.179342642, -0.144383878, 0.131173998, -0.980785906),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7660134717.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7660134717.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "BreastsScale",
 				["Color"] = {
@@ -5856,7 +5856,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.136535645, -0.0603485107, 0.0240478516, -0.894259214, -0.415139675, -0.167196825, -0.399148285, 0.90878731, -0.121600553, 0.202425659, -0.0420068502, -0.978384972),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7660134717.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7660134717.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "BreastsScale",
 				["Color"] = {
@@ -5877,7 +5877,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0822753906, -0.077545166, -0.00912475586, -0.866024375, -0.481984288, 0.133011624, -0.500000715, 0.834820151, -0.230378717, -4.529953e-06, -0.266019404, -0.963965297),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/OX_7115693161.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/OX_7115693161.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "BreastsScale",
 				["Color"] = {
@@ -5898,7 +5898,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0802612305, -0.0796127319, 0.00048828125, -0.866026342, -0.499999702, 1.34110451e-06, -0.500000477, 0.866024554, 1.8812716e-06, 1.93715096e-06, -9.983778e-07, -0.999993801),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/OX_7115703261.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/OX_7115703261.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "BreastsScale",
 				["Color"] = {
@@ -5919,7 +5919,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0479736328, -0.0687346458, -0.523132324, 0.999995232, 1.49011169e-06, -6.70550605e-07, -6.70550605e-07, 1.30384535e-07, 1, -1.49011169e-06, -0.999998212, -1.30384535e-07),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6720355129.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6720355129.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -5937,7 +5937,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0766601562, 0.514653921, -0.24230957, 0.787097275, -0.498641491, 0.363077641, 0.451583117, 0.866802633, 0.211485073, -0.420175463, -0.00249786698, 0.907437563),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7004864019.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7004864019.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "ButtsScale",
 				["Color"] = {
@@ -5957,7 +5957,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.120727539, 0.514345884, -0.31817627, 0.999995232, 1.59744775e-06, -2.7102883e-06, -1.44849582e-06, 0.771619797, -0.63608402, -1.90503056e-06, 0.636083126, 0.771618247),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "ButtsScale",
 				["Color"] = {
@@ -5977,7 +5977,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.102844238, 0.38935113, -0.46282959, -0.938311875, 0.179826811, 0.295336485, -0.0692516118, 0.739090443, -0.670036972, -0.338769197, -0.649158537, -0.681047142),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7004863745.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7004863745.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "ButtsScale",
 				["Color"] = {
@@ -5997,7 +5997,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0443115234, 0.255191326, -0.58782959, 0.999995232, 2.68465783e-06, -1.64015682e-06, -1.44849582e-06, 0.980140269, -0.198305607, -1.90503056e-06, 0.198305503, 0.980138481),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "ButtsScale",
 				["Color"] = {
@@ -6017,7 +6017,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.237976074, 0.271583557, -0.505615234, 0.999995232, 2.44005037e-06, -2.04078469e-06, -1.4637908e-06, 0.94541508, -0.325868547, -1.845979e-06, 0.325868189, 0.945413351),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "ButtsScale",
 				["Color"] = {
@@ -6037,7 +6037,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0971069336, 0.504099846, -0.206848145, 0.0925252661, 0.0484154634, 0.994527757, 0.202760041, 0.976973116, -0.0664230064, -0.974845827, 0.20779705, 0.0805752203),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7004864019.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7004864019.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "ButtsScale",
 				["Color"] = {
@@ -6057,7 +6057,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.178894043, 0.144503593, -0.581176758, 0.999995232, 2.59762965e-06, -1.84204657e-06, -1.46700393e-06, 0.968367994, -0.24952662, -1.84463056e-06, 0.249526426, 0.968366146),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6976475976.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "ButtsScale",
 				["Color"] = {
@@ -6077,7 +6077,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.123840332, 0.291390419, -0.522583008, 0.0280825775, -0.340392381, 0.939859033, -0.710923135, 0.654169858, 0.258166909, -0.702707767, -0.675418377, -0.223625451),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7004863745.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7004863745.mesh")),
 				["DoubleSided"] = false,
 				["Scale"] = "ButtsScale",
 				["Color"] = {
@@ -6097,7 +6097,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.0823383331, -0.0102884769, -0.0162353516, 0.994650841, -0.103276134, 0, 0.103276335, 0.994652808, 0, 0, 0, 0.999998033),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/125202318335961.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/125202318335961.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6115,7 +6115,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.119886398, 0.0890517235, -0.00408935547, 0.996276021, -0.0862001404, 0, 0.0862003118, 0.996277988, 0, 0, 0, 0.999998033),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/83504910801572.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/83504910801572.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6133,7 +6133,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.000686645508, -0.0060095787, -0.0635070801, 0.999998689, 2.8840576e-26, 0, 2.88406129e-26, 1, 0, 0, 0, 0.999998689),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/134989273944289.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/134989273944289.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6151,7 +6151,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0676631927, 6.31809235e-05, -0.0373191833, 0.999999344, 0, 0, 0, 0.999234259, -0.0391268283, 0, 0.0391268283, 0.999231637),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/116742308897287.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/116742308897287.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6170,7 +6170,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/92395350432537.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/92395350432537.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6191,7 +6191,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/79202531181173.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/79202531181173.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6212,7 +6212,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/83679944172074.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/83679944172074.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6233,7 +6233,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/90596906849364.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/90596906849364.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6254,7 +6254,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/105937959636862.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/105937959636862.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6275,7 +6275,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/75884203722318.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/75884203722318.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6296,7 +6296,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0,-0.001,0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/118417825061565.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/118417825061565.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6316,7 +6316,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.0616283417, -0.0131552219, -0.0191383362, 0.994674206, 0.10305576, 0, -0.103055961, 0.994676173, 0, 0, 0, 0.999998033),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/119168308079386.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/119168308079386.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6334,7 +6334,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.07771492, 0.0861301422, 0.00582313538, 0.993857265, 0.110640615, 0, -0.110640831, 0.993859231, 0, 0, 0, 0.999998033),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Glass,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/95320080609346.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/95320080609346.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6353,7 +6353,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8447877878.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8447877878.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6373,7 +6373,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8447851356.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8447851356.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6393,7 +6393,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6885999097.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6885999097.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6413,7 +6413,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4803707231.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4803707231.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6433,7 +6433,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4803707231.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4803707231.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6453,7 +6453,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4803707231.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4803707231.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6474,7 +6474,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4803707231.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4803707231.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6495,7 +6495,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8313398285.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8313398285.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6514,7 +6514,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8313398067.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8313398067.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6534,7 +6534,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8371312822.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8371312822.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6553,7 +6553,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6573,7 +6573,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6593,7 +6593,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7980629618.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7980629618.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6614,7 +6614,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7980629618.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7980629618.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6635,9 +6635,9 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8915312843.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8915312843.mesh")),
 				["DoubleSided"] = false,
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6888586040.png",
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6888586040.png"),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = Color3.fromRGB(163.00000548362732, 162.00000554323196, 165.00000536441803),
@@ -6655,9 +6655,9 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8915312502.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8915312502.mesh")),
 				["DoubleSided"] = false,
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6888586040.png",
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/6888586040.png"),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = Color3.fromRGB(163.00000548362732, 162.00000554323196, 165.00000536441803),
@@ -6675,7 +6675,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8592346019.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8592346019.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6694,7 +6694,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8592346452.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8592346452.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6714,7 +6714,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033680123.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033680123.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6734,7 +6734,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033692280.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033692280.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6753,7 +6753,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033858168.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033858168.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6773,7 +6773,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033822343.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033822343.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6792,7 +6792,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6811,7 +6811,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8965126164.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8965126164.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6831,7 +6831,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033714666.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033714666.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6851,7 +6851,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033680123.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033680123.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6871,7 +6871,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6890,7 +6890,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6909,7 +6909,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6928,7 +6928,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6947,7 +6947,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6966,7 +6966,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -6985,7 +6985,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7004,7 +7004,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7023,7 +7023,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7042,7 +7042,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7061,7 +7061,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7080,7 +7080,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7099,7 +7099,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7118,7 +7118,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7137,7 +7137,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7156,7 +7156,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7175,7 +7175,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964755042.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964755042.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7195,7 +7195,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7214,7 +7214,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7233,7 +7233,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7252,7 +7252,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7271,7 +7271,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7290,7 +7290,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7309,7 +7309,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7328,7 +7328,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7347,7 +7347,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7366,7 +7366,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7385,7 +7385,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769902.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7404,7 +7404,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7423,7 +7423,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7442,7 +7442,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7461,7 +7461,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Sand,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8964769904.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7480,7 +7480,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033508047.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033508047.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7500,7 +7500,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033874623.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033874623.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7519,7 +7519,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033906005.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033906005.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7539,7 +7539,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033511985.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9033511985.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7558,7 +7558,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8914802954.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8914802954.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7578,7 +7578,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8914802954.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8914802954.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7598,7 +7598,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9020948490.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9020948490.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7617,7 +7617,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8896526740.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8896526740.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7637,7 +7637,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8896528338.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8896528338.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7657,7 +7657,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8896528503.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8896528503.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7677,7 +7677,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8896526539.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8896526539.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7697,7 +7697,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9867233367.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9867233367.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7717,7 +7717,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9867233360.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9867233360.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7737,7 +7737,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10858752208.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10858752208.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7756,7 +7756,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10858752190.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10858752190.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7775,7 +7775,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10859058245.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10859058245.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7794,7 +7794,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10859058249.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10859058249.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7813,7 +7813,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Metal,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10858752173.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10858752173.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7832,7 +7832,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10858752241.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10858752241.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7851,7 +7851,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10858752221.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10858752221.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7871,7 +7871,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9534436982.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9534436982.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7890,7 +7890,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9533965499.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9533965499.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7909,7 +7909,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9739471829.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9739471829.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7928,7 +7928,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9752288922.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9752288922.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7947,7 +7947,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9513009034.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9513009034.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7966,7 +7966,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9738589498.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9738589498.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -7985,7 +7985,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9522843947.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9522843947.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8004,7 +8004,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6867647037.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6867647037.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8022,7 +8022,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9730141165.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9730141165.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8041,7 +8041,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10399620886.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10399620886.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8060,7 +8060,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863982580.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863982580.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8079,7 +8079,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863945719.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863945719.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8098,7 +8098,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863959589.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863959589.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8117,7 +8117,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863962668.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863962668.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8136,7 +8136,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863964841.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863964841.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8155,7 +8155,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863985603.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863985603.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8174,7 +8174,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863941262.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863941262.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8193,7 +8193,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Neon,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863966579.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8863966579.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8429,7 +8429,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.00418663025, 1.09489012, 0.00360298157, 1, -5.37213937e-12, 6.13908924e-12, -5.37213937e-12, 1, -1.63373362e-23, 6.13908924e-12, -1.63373346e-23, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4342469442.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/4342469442.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8448,7 +8448,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.00561904907, 0.359501839, -0.399815559, -0.00869339053, 5.57615342e-14, -0.999962211, -1.46950747e-14, 1, -5.56358853e-14, 0.999962211, -1.42108547e-14, -0.00869339053),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8609087425.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/8609087425.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8467,7 +8467,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.00980949402, 0.488786697, -0.226898193, -0.00869352184, -8.84762244e-07, -0.999962211, 1.25948532e-07, 1, -8.85890699e-07, 0.999962211, -1.33645287e-07, -0.00869352184),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9286995426.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/9286995426.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8486,7 +8486,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.00817108154, 0.188874245, -0.374444962, -2.84217094e-14, 5.57615342e-14, -1, -1.42108547e-14, 1, -5.57615342e-14, 1, -1.42108547e-14, 2.84217094e-14),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12776336375.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/12776336375.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8505,7 +8505,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15649620886.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15649620886.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8524,7 +8524,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15640279907.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15640279907.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8543,7 +8543,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15640502788.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/15640502788.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8557,7 +8557,7 @@ function RoClothes(Player)
 			["Sweater Left Arm"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Arm Clothes",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh")),
 				["Size"] = Vector3.new(1.1328604221343994, 1.823657512664795, 1.1202536821365356),
 				["CFrame"] = CFrame.new(0.0394668579, 0.137500286, -0.000893115997, 1, 1.11645536e-13, -5.67209548e-14, 1.11400601e-13, 1, -2.85441735e-14, -5.69658863e-14, -2.82992454e-14, 1),
 				["Transparency"] = 0,
@@ -8574,7 +8574,7 @@ function RoClothes(Player)
 			["Sweater Right Arm"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Arm Clothes",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/6866262171.mesh")),
 				["Size"] = Vector3.new(1.1236231327056885, 1.824110746383667, 1.1236631870269775),
 				["CFrame"] = CFrame.new(-0.0385055542, 0.137500286, -0.000893115997, 1, 1.11645536e-13, -5.67209548e-14, 1.11400601e-13, 1, -2.85441735e-14, -5.69658863e-14, -2.82992454e-14, 1),
 				["Transparency"] = 0,
@@ -8596,7 +8596,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/77284727360409.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/77284727360409.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8616,7 +8616,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/101087111632562.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/101087111632562.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8637,7 +8637,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Plastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/101087111632562.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/101087111632562.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -8658,7 +8658,7 @@ function RoClothes(Player)
 				["Transparency"] = 0.6499999761581421,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.Wood,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/76388853104288.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/76388853104288.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -9022,8 +9022,8 @@ function RoClothes(Player)
 			["leftheel"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Heel",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/92232607522801.mesh"),
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/11725818007.png",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/92232607522801.mesh")),
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/11725818007.png"),
 				["Size"] = Vector3.new(0.9121015667915344, 0.6203000545501709, 1.0545639991760254),
 				["CFrame"] = CFrame.new(0.099708885, -0.742674768, 0.0119909737, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["DoubleSided"] = true,
@@ -9041,8 +9041,8 @@ function RoClothes(Player)
 			["leftheelstrap"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Heel Strap",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/135377483286145.mesh"),
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/11725818007.png",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/135377483286145.mesh")),
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/11725818007.png"),
 				["Size"] = Vector3.new(0.9195975661277771, 0.7609500885009766, 1.039093017578125),
 				["CFrame"] = CFrame.new(0.0821268857, -0.485189617, 0.009004483, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["DoubleSided"] = true,
@@ -9060,8 +9060,8 @@ function RoClothes(Player)
 			["rightheel"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Heel",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/74679705510743.mesh"),
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/11725818007.png",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/74679705510743.mesh")),
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/11725818007.png"),
 				["Size"] = Vector3.new(0.9121012091636658, 0.6203000545501709, 1.0545639991760254),
 				["CFrame"] = CFrame.new(-0.0997143686, -0.742674768, 0.0120139811, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["DoubleSided"] = true,
@@ -9079,8 +9079,8 @@ function RoClothes(Player)
 			["rightheelstrap"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Heel Strap",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/85233396977100.mesh"),
-				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/11725818007.png",
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/85233396977100.mesh")),
+				["TextureId"] = "rbxasset://" .. readfile("RClothesContent/11725818007.png"),
 				["Size"] = Vector3.new(0.9195974469184875, 0.7609500885009766, 1.039093017578125),
 				["CFrame"] = CFrame.new(-0.082120508, -0.48519963, 0.00900349952, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["DoubleSided"] = true,
@@ -9098,7 +9098,7 @@ function RoClothes(Player)
 			["leftheelcolors"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Left Heel",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/92232607522801.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/92232607522801.mesh")),
 				["Size"] = Vector3.new(0.9121015667915344, 0.6203000545501709, 1.0545639991760254),
 				["CFrame"] = CFrame.new(0.099708885, -0.742674768, 0.0119909737, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["DoubleSided"] = true,
@@ -9117,7 +9117,7 @@ function RoClothes(Player)
 			["rightheelcolors"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Right Heel",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/74679705510743.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/74679705510743.mesh")),
 				["Size"] = Vector3.new(0.9121012091636658, 0.6203000545501709, 1.0545639991760254),
 				["CFrame"] = CFrame.new(-0.0997143686, -0.742674768, 0.0120139811, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["DoubleSided"] = true,
@@ -9170,7 +9170,7 @@ function RoClothes(Player)
 			["Bulge"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Bulge",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/78553849357163.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/78553849357163.mesh")),
 				["Size"] = Vector3.new(1.0286178588867188, 0.8894359469413757, 0.7855360507965088),
 				["CFrame"] = CFrame.new(0, -1.0007814, -0.434062207, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["CFrame1"] = CFrame.new(0,.2,.1),
@@ -9196,7 +9196,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0.225398868, 0.376000375, 0.0100766923, 0.991445065, -0.130525291, 4.87403595e-05, 0.130525261, 0.991445005, -8.54662358e-05, -3.7167978e-05, 9.10969538e-05, 1.00000012),
 				["Transparency"] = 1,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7606070501.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7606070501.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -9219,7 +9219,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0.225398868, 0.376000375, 0.0100766923, 0.991445065, -0.130525291, 4.87403595e-05, 0.130525261, 0.991445005, -8.54662358e-05, -3.7167978e-05, 9.10969538e-05, 1.00000012),
 				["Transparency"] = 1,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7606070501.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/7606070501.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -9240,7 +9240,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.06092453, 0.0323336124, 0.329265594, 7.76301604e-05, 0.178561956, -0.983928919, -0.000171953987, 0.9839288, 0.178561717, 1.00000215, 0.00015532723, 0.000107090571),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/85193503766229.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/85193503766229.mesh")),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = "Parent"
@@ -9260,7 +9260,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.060749054, 0.0328052044, -0.333564758, 7.2044204e-05, 0.178487211, -0.983942688, -0.00018877878, 0.983942688, 0.178487182, 1.00000036, 0.000172888438, 0.000104581821),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/132922517258698.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/132922517258698.mesh")),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = "Parent"
@@ -9280,7 +9280,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5270413936.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5270413936.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -9302,7 +9302,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5270413632.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/5270413632.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -9325,7 +9325,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0.000495910645, 0.513843536, 0.171203613, 0, 0, -1, 0, 1, 0, 1, 0, 0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10967484907.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10967484907.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -9346,7 +9346,7 @@ function RoClothes(Player)
 				["CFrame1"] = CFrame.new(0.000495910645, 0.513843536, 0.171203613, 0, 0, -1, 0, 1, 0, 1, 0, 0),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10967484907.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/10967484907.mesh")),
 				["DoubleSided"] = true,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -9366,7 +9366,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(-0.318508148, -0.000299930573, 0.0225143433, -0.999999702, -0.000594838057, 0.000536412932, -0.000519041496, 0.991296053, 0.13165088, -0.000610054936, 0.131650567, -0.991296053),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/85193503766229.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/85193503766229.mesh")),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = "Parent"
@@ -9385,7 +9385,7 @@ function RoClothes(Player)
 				["CFrame"] = CFrame.new(0.344493866, 0.000699996948, 0.0235137939, -0.999999702, -0.000612253847, 0.00053641788, -0.000536347798, 0.991305232, 0.131581664, -0.000612315198, 0.131581336, -0.991305232),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/132922517258698.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/132922517258698.mesh")),
 				["Color"] = {
 					["Tone"] = "Base",
 					["Color"] = "Parent"
@@ -9407,7 +9407,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/18890901224.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/18890901224.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -9428,7 +9428,7 @@ function RoClothes(Player)
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/118273968520530.mesh"),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/118273968520530.mesh")),
 				["DoubleSided"] = false,
 				["Color"] = {
 					["Tone"] = "Base",
@@ -11201,7 +11201,7 @@ function RoClothes(Player)
 			{NumberSequenceKeypoint.new(0,1.5,1),
 				NumberSequenceKeypoint.new(1,1.5,1)}
 		)
-		particle.Texture = "rbxasset://" .. readfile("RClothesContent/16235774309.png"
+		particle.Texture = "rbxasset://" .. readfile("RClothesContent/16235774309.png")
 		particle.Transparency = NumberSequence.new(
 			{NumberSequenceKeypoint.new(0,1),
 				NumberSequenceKeypoint.new(.2,.5),
@@ -11656,7 +11656,7 @@ function RoClothes(Player)
 		end
 		for i = 1, 6 do
 			local Texture = Instance.new("Decal", ObjectInstance)
-			Texture.Texture = "rbxasset://" .. readfile("RClothesContent/colorableFreckles.png"
+			Texture.Texture = "rbxasset://" .. readfile("RClothesContent/colorableFreckles.png")
 			task.delay(0,function()
 				if oldObjectInstance then
 					Texture.Color3 = oldObjectInstance.Color
@@ -11717,7 +11717,7 @@ function RoClothes(Player)
 		for i = 1, 6 do
 			local Texture = Instance.new("Texture", ObjectInstance)
 			Texture.Color3 = Color3.fromRGB(255,255,255)
-			Texture.Texture = "rbxasset://" .. readfile("RClothesContent/187645444.png"
+			Texture.Texture = "rbxasset://" .. readfile("RClothesContent/187645444.png")
 			Texture.Transparency = 0.3
 
 			if i == 1 then
@@ -11768,7 +11768,7 @@ function RoClothes(Player)
 		for i = 1, 6 do
 			local Texture = Instance.new("Texture", ObjectInstance)
 			Texture.Color3 = Color3.fromRGB(55, 55, 55)
-			Texture.Texture = "rbxasset://" .. readfile("RClothesContent/739677490.png"
+			Texture.Texture = "rbxasset://" .. readfile("RClothesContent/739677490.png")
 			Texture.Transparency = 0.3
 
 			if i == 1 then
@@ -11791,7 +11791,7 @@ function RoClothes(Player)
 		for i = 1, 4 do
 			local Texture = Instance.new("Texture", ObjectInstance)
 			Texture.Color3 = Color3.fromRGB(255, 255, 255)
-			Texture.Texture = "rbxasset://" .. readfile("RClothesContent/8131038954.png"
+			Texture.Texture = "rbxasset://" .. readfile("RClothesContent/8131038954.png")
 			Texture.Transparency = 0.3
 
 			if i == 1 then
@@ -11815,7 +11815,7 @@ function RoClothes(Player)
 			for i = 1, 2 do
 				local Decal = Instance.new("Decal", ObjectInstance)
 				Decal.Color3 = Color3.fromRGB(255, 167, 169)
-				Decal.Texture = "rbxasset://" .. readfile("RClothesContent/6667257628.png"
+				Decal.Texture = "rbxasset://" .. readfile("RClothesContent/6667257628.png")
 				Decal.Face = "Left"
 				Decal.Name = "Areola Decal".." "..tostring(i)
 				PlayerData[Data].CurrentPartList.AreolaDecal[Decal] = ObjectInstance
@@ -11836,7 +11836,7 @@ function RoClothes(Player)
 				local Decal = Instance.new("Decal", ObjectInstance)
 				Decal.Transparency = 1
 				Decal.Color3 = Color3.fromRGB(255, 167, 169)
-				Decal.Texture = "rbxasset://" .. readfile("RClothesContent/6667257628.png"
+				Decal.Texture = "rbxasset://" .. readfile("RClothesContent/6667257628.png")
 				Decal.Face = "Left"
 				Decal.Name = "Areola Decal".." "..tostring(i)
 				PlayerData[Data].CurrentPartList.AreolaDecal[Decal] = ObjectInstance
@@ -11859,7 +11859,7 @@ function RoClothes(Player)
 		if not table.find(PlayerData[Data].CurrentClothes, "Roblox Breasts Clothing") and ObjectInstance.Transparency ~= 1 or table.find(PlayerData[Data].CurrentClothes, "Roblox Breasts Clothing") and (ObjectInstance.Name ~= "Left Breast" and ObjectInstance.Name ~= "Right Breast") and ObjectInstance.Transparency ~= 1 then
 			local Decal = Instance.new("Decal", ObjectInstance)
 			Decal.Color3 = Color3.fromRGB(255, 167, 169)
-			Decal.Texture = "rbxasset://" .. readfile("RClothesContent/10374562715.png"
+			Decal.Texture = "rbxasset://" .. readfile("RClothesContent/10374562715.png")
 			Decal.Face = "Front"
 			Decal.Name = "Areola Decal"
 			PlayerData[Data].CurrentPartList.AreolaDecal[Decal] = ObjectInstance
@@ -11878,7 +11878,7 @@ function RoClothes(Player)
 			local Decal = Instance.new("Decal", ObjectInstance)
 			Decal.Transparency = 1
 			Decal.Color3 = Color3.fromRGB(255, 167, 169)
-			Decal.Texture = "rbxasset://" .. readfile("RClothesContent/10374562715.png"
+			Decal.Texture = "rbxasset://" .. readfile("RClothesContent/10374562715.png")
 			Decal.Face = "Front"
 			Decal.Name = "Areola Decal"
 			PlayerData[Data].CurrentPartList.AreolaDecal[Decal] = ObjectInstance
@@ -11900,7 +11900,7 @@ function RoClothes(Player)
 		if not table.find(PlayerData[Data].CurrentClothes, "Roblox Breasts Clothing") and ObjectInstance.Transparency ~= 1 or table.find(PlayerData[Data].CurrentClothes, "Roblox Breasts Clothing") and (ObjectInstance.Name ~= "Left Breast" and ObjectInstance.Name ~= "Right Breast") and ObjectInstance.Transparency ~= 1 then
 			local Decal = Instance.new("Decal", ObjectInstance)
 			Decal.Color3 = Color3.fromRGB(255, 167, 169)
-			Decal.Texture = "rbxasset://" .. readfile("RClothesContent/9065282081.png"
+			Decal.Texture = "rbxasset://" .. readfile("RClothesContent/9065282081.png")
 			Decal.Face = "Right"
 			Decal.Name = "Areola Decal"
 			PlayerData[Data].CurrentPartList.AreolaDecal[Decal] = ObjectInstance
@@ -11919,7 +11919,7 @@ function RoClothes(Player)
 			local Decal = Instance.new("Decal", ObjectInstance)
 			Decal.Transparency = 1
 			Decal.Color3 = Color3.fromRGB(255, 167, 169)
-			Decal.Texture = "rbxasset://" .. readfile("RClothesContent/9065282081.png"
+			Decal.Texture = "rbxasset://" .. readfile("RClothesContent/9065282081.png")
 			Decal.Face = "Right"
 			Decal.Name = "Areola Decal"
 			PlayerData[Data].CurrentPartList.AreolaDecal[Decal] = ObjectInstance
@@ -11941,7 +11941,7 @@ function RoClothes(Player)
 		--[[local Decal = Instance.new("SurfaceAppearance", ObjectInstance)
 		ObjectInstance:AddTag("ImportantSurfaceAppearance")
 		Decal.Color = Color3.fromRGB(255, 167, 169)
-		Decal.ColorMap = "rbxassetid://13779954418.png"
+		Decal.ColorMap = "rbxassetid://13779954418.png")
 		Decal.Name = "Areola Decal"
 
 		if Extra.Tone == "Dark" then
@@ -11958,7 +11958,7 @@ function RoClothes(Player)
 		if not table.find(PlayerData[Data].CurrentClothes, "Roblox Breasts Clothing") and ObjectInstance.Transparency ~= 1 or table.find(PlayerData[Data].CurrentClothes, "Roblox Breasts Clothing") and (ObjectInstance.Name ~= "Left Breast" and ObjectInstance.Name ~= "Right Breast") and ObjectInstance.Transparency ~= 1 then
 			local Decal = Instance.new("Decal", ObjectInstance)
 			Decal.Color3 = Color3.fromRGB(255, 167, 169)
-			Decal.Texture = "rbxasset://" .. readfile("RClothesContent/13779954418.png"
+			Decal.Texture = "rbxasset://" .. readfile("RClothesContent/13779954418.png")
 			Decal.Face = "Right"
 			Decal.Name = "Areola Decal"
 			PlayerData[Data].CurrentPartList.AreolaDecal[Decal] = ObjectInstance
@@ -11977,7 +11977,7 @@ function RoClothes(Player)
 			local Decal = Instance.new("Decal", ObjectInstance)
 			Decal.Transparency = 1
 			Decal.Color3 = Color3.fromRGB(255, 167, 169)
-			Decal.Texture = "rbxasset://" .. readfile("RClothesContent/13779954418.png"
+			Decal.Texture = "rbxasset://" .. readfile("RClothesContent/13779954418.png")
 			Decal.Face = "Right"
 			Decal.Name = "Areola Decal"
 			PlayerData[Data].CurrentPartList.AreolaDecal[Decal] = ObjectInstance
@@ -12002,9 +12002,9 @@ function RoClothes(Player)
 		SpecialMesh.MeshType = Enum.MeshType.FileMesh
 
 		if ObjectInstance.Parent.Name == "Left Breast" then
-			SpecialMesh.MeshId = "rbxasset://" .. readfile("RClothesContent/13779756984.mesh")
+			SpecialMesh.MeshId = "rbxasset://" .. readfile("RClothesContent/13779756984.mesh"))
 		else
-			SpecialMesh.MeshId = "rbxasset://" .. readfile("RClothesContent/13779756939.mesh")
+			SpecialMesh.MeshId = "rbxasset://" .. readfile("RClothesContent/13779756939.mesh"))
 		end
 
 		if Scale ~= nil then
@@ -12293,9 +12293,9 @@ function RoClothes(Player)
 		SpecialMesh.MeshType = Enum.MeshType.FileMesh
 
 		if ObjectInstance.Name == "Left Breast" then
-			SpecialMesh.MeshId = "rbxasset://" .. readfile("RClothesContent/99196487433776.mesh")
+			SpecialMesh.MeshId = "rbxasset://" .. readfile("RClothesContent/99196487433776.mesh"))
 		else
-			SpecialMesh.MeshId = "rbxasset://" .. readfile("RClothesContent/135832822984550.mesh")
+			SpecialMesh.MeshId = "rbxasset://" .. readfile("RClothesContent/135832822984550.mesh"))
 		end
 
 		if Scale ~= nil then
@@ -12314,9 +12314,9 @@ function RoClothes(Player)
 		SpecialMesh.MeshType = Enum.MeshType.FileMesh
 
 		if ObjectInstance.Name == "Left Breast" then
-			SpecialMesh.MeshId = "rbxasset://" .. readfile("RClothesContent/5270415437.mesh")
+			SpecialMesh.MeshId = "rbxasset://" .. readfile("RClothesContent/5270415437.mesh"))
 		else
-			SpecialMesh.MeshId = "rbxasset://" .. readfile("RClothesContent/5270413797.mesh")
+			SpecialMesh.MeshId = "rbxasset://" .. readfile("RClothesContent/5270413797.mesh"))
 		end
 
 		if Scale ~= nil then
@@ -14494,7 +14494,7 @@ function RoClothes(Player)
 							newHead = IS:CreateMeshPartAsync(id, Enum.CollisionFidelity.Box, Enum.RenderFidelity.Performance)
 						end)
 						if not success then
-							newHead = IS:CreateMeshPartAsync("rbxasset://fonts//head.mesh"), Enum.CollisionFidelity.Box, Enum.RenderFidelity.Automatic)
+							newHead = IS:CreateMeshPartAsync("rbxasset://fonts//head.mesh")), Enum.CollisionFidelity.Box, Enum.RenderFidelity.Automatic)
 						end
 						newHead.Parent = h
 						local appearance = Instance.new("SurfaceAppearance",newHead)
@@ -23421,12 +23421,12 @@ function RoClothes(Player)
 	local loadui = Instance.new("ScreenGui",game:GetService("CoreGui"))
 	loadui.Enabled = true
 	local oload = Instance.new("ImageLabel",loadui)
-	oload.Image = "rbxasset://" .. readfile("RClothesContent/load.png"
+	oload.Image = "rbxasset://" .. readfile("RClothesContent/load.png")
 	oload.Size = UDim2.new(1,0,1,0)
 	oload.Transparency = 1
 	oload.ImageTransparency = .999
 	local load = Instance.new("ImageLabel",loadui)
-	load.Image = "rbxasset://" .. readfile("RClothesContent/loadv9.png"
+	load.Image = "rbxasset://" .. readfile("RClothesContent/loadv9.png")
 	load.Size = UDim2.new(1,0,1,0)
 	load.Transparency = 1
 	load.ImageTransparency = .999
