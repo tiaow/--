@@ -1,7 +1,4 @@
-
-local CONTENT_PATH = "rbxasset://MyCustomPath/RoClothes/"
--- 或者用你执行器支持的路径
--- local CONTENT_PATH = getcustomasset("RoClothes/")
+print("1")
 
 local PS = game:GetService("Players")
 local RS = game:GetService("RunService")
@@ -23334,4 +23331,4 @@ else
 		RoClothes(PS:WaitForChild("lerp()"))
 	end
 end
-return nil
+return print("nill")
