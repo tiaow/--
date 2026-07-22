@@ -686,7 +686,7 @@ function RoClothes(Player)
 			["Torso"] = {
 				["Instance"] = "Mesh",
 				["Name"] = "Torso Mesh",
-				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181228593.mesh")),
+				["MeshId"] = "rbxasset://" .. readfile("RClothesContent/13181228593.mesh"),
 				["Size"] = Vector3.new(2.04, 2.06, 1.06),
 				["CFrame"] = CFrame.new(0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
